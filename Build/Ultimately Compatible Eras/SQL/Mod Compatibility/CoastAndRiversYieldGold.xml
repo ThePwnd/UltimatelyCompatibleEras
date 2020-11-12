@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/16/2019 6:27:21 PM -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SAILING_YIELDS</Type>
+			<BuildingClass>BUILDINGCLASS_SAILING_YIELDS</BuildingClass>
+			<Cost>0</Cost>
+			<PrereqTech>TECH_SAILING</PrereqTech>
+			<Help>TXT_KEY_BUILDING_SAILING_YIELDS_HELP</Help>
+			<Description>TXT_KEY_BUILDING_SAILING_YIELDS</Description>
+			<Civilopedia>TXT_KEY_BUILDING_SAILING_YIELDS_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SAILING_YIELDS_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<DisplayPosition>32</DisplayPosition>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>UNIT_ACTION_ATLAS</IconAtlas>
+			<PortraitIndex>6</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_FeaturesYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SAILING_YIELDS</BuildingType>
+			<FeatureType>FEATURE_RIVER</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_FeaturesYieldChanges>
+	<Building_TerrainYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SAILING_YIELDS</BuildingType>
+			<TerrainType>TERRAIN_COAST</TerrainType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_TerrainYieldChanges>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_SAILING_YIELDS</Type>
+			<DefaultBuilding>BUILDING_SAILING_YIELDS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SAILING_YIELDS</Description>
+		</Row>
+	</BuildingClasses>
+	<Language_en_US>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SAILING_YIELDS</Tag>
+			<Text>Coast &amp; River Yields</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SAILING_YIELDS_TEXT</Tag>
+			<Text>This building will automatically upgrade any coast and river tiles within your cities to grant +1 gold when worked.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SAILING_YIELDS_HELP</Tag>
+			<Text>This building will automatically upgrade any coast and river tiles within your cities to grant +1 gold when worked.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SAILING_YIELDS_STRATEGY</Tag>
+			<Text>This building will automatically upgrade any coast and river tiles within your cities to grant +1 gold when worked.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

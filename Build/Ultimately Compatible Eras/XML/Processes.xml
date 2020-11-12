@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/1/2015 6:59:50 PM -->
+<GameData>
+	<Processes>
+		<Update>
+			<Set TechPrereq="TECH_SOCIAL_STRUCTURE" />
+			<Where Type="PROCESS_RESEARCH" />
+		</Update>
+	</Processes>
+	<Process_ProductionYields>
+		<Update>
+			<Set Yield="25"/>
+			<Where ProcessType="PROCESS_RESEARCH"/>
+		</Update>
+	</Process_ProductionYields>
+</GameData>

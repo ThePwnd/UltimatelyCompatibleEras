@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/29/2015 12:51:11 AM -->
+<GameData>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_CLUBMAN</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_SHAMAN</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_EARLY_SPEARMAN</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EARLY_SPEARMAN</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_EARLY_SLINGER</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EARLY_SLINGER</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EARLY_SLINGER</UnitType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_AXEMAN</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+	</Unit_Flavors>
+</GameData>

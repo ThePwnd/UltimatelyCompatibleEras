@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/27/2016 3:05:02 PM -->
+<GameData>
+	<PolicyBranchTypes>
+		<Update>
+			<Set EraPrereq="ERA_PREHISTORIC"/>
+			<Where Type="POLICY_BRANCH_TRADITION"/>
+		</Update>
+		<Update>
+			<Set EraPrereq="ERA_PREHISTORIC"/>
+			<Where Type="POLICY_BRANCH_HONOR"/>
+		</Update>
+		<Update>
+			<Set EraPrereq="ERA_ANCIENT"/>
+			<Where Type="POLICY_BRANCH_PIETY"/>
+		</Update>
+		<Update>
+			<Set EraPrereq="ERA_PREHISTORIC"/>
+			<Where Type="POLICY_BRANCH_LIBERTY"/>
+		</Update>
+	</PolicyBranchTypes>
+</GameData>

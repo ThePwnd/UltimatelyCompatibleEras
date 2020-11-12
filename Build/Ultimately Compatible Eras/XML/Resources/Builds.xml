@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/28/2015 3:53:18 AM -->
+<GameData>
+	<Builds>
+		<Update>
+			<Set PrereqTech="TECH_ANIMAL_HORDING"/>
+			<Where Type="BUILD_PASTURE"/>
+		</Update>
+		<Update>
+			<Set PrereqTech="TECH_BUILDING"/>
+			<Where Type="BUILD_REMOVE_MARSH"/>
+		</Update>
+		<Update>
+			<Set PrereqTech="TECH_FISHERY"/>
+			<Where Type="BUILD_FISHING_BOATS"/>
+		</Update>
+		<Row>
+			<Type>BUILD_HUNTING_GROUND</Type>
+			<PrereqTech>TECH_HUNTING</PrereqTech>
+			<Time>400</Time>
+			<ImprovementType>IMPROVEMENT_HUNTING_GROUND</ImprovementType>
+			<Description>TXT_KEY_BUILD_HUNTING_GROUND</Description>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<HotKey>KB_P</HotKey>
+			<OrderPriority>98</OrderPriority>
+			<IconIndex>4</IconIndex>
+			<IconAtlas>EXPANSION2_PROMOTION_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_GATHERING_GROUND</Type>
+			<PrereqTech>TECH_GATHERING</PrereqTech>
+			<Time>400</Time>
+			<ImprovementType>IMPROVEMENT_GATHERING_GROUND</ImprovementType>
+			<Description>TXT_KEY_BUILD_GATHERING_GROUND</Description>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<HotKey>KB_P</HotKey>
+			<OrderPriority>98</OrderPriority>
+			<IconIndex>35</IconIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+		</Row>
+	</Builds>
+	
+	<BuildFeatures>
+		<Row>
+			<BuildType>BUILD_HUNTING_GROUND</BuildType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<PrereqTech>TECH_HUNTING</PrereqTech>
+			<Time>400</Time>
+			<Production>0</Production>
+		</Row>
+		<Row>
+			<BuildType>BUILD_HUNTING_GROUND</BuildType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<PrereqTech>TECH_HUNTING</PrereqTech>
+			<Time>400</Time>
+			<Production>0</Production>
+		</Row>
+		<Row>
+			<BuildType>BUILD_GATHERING_GROUND</BuildType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<PrereqTech>TECH_GATHERING</PrereqTech>
+			<Time>400</Time>
+			<Production>0</Production>
+		</Row>
+		<Row>
+			<BuildType>BUILD_GATHERING_GROUND</BuildType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<PrereqTech>TECH_GATHERING</PrereqTech>
+			<Time>400</Time>
+			<Production>0</Production>
+		</Row>
+	</BuildFeatures>
+
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_HUNTING_GROUND</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_GATHERING_GROUND</BuildType>
+		</Row>
+	</Unit_Builds>
+</GameData>

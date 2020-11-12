@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/26/2015 4:29:51 AM -->
+<GameData>
+	<Technology_PrereqTechs>
+		<!--*************************************************************-->
+		<!--************************ PREHISTORIC ************************-->
+		<!--*************************************************************-->
+		
+		<Row>
+			<TechType>TECH_BASIC_TOOLS</TechType>
+			<PrereqTech>TECH_SOCIAL_STRUCTURE</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_IDOLIZATION</TechType>
+			<PrereqTech>TECH_SOCIAL_STRUCTURE</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_SCOUTING</TechType>
+			<PrereqTech>TECH_SOCIAL_STRUCTURE</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_FISHERY</TechType>
+			<PrereqTech>TECH_SCOUTING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_GATHERING</TechType>
+			<PrereqTech>TECH_BASIC_TOOLS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_GATHERING</TechType>
+			<PrereqTech>TECH_SCOUTING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_HUNTING</TechType>
+			<PrereqTech>TECH_BASIC_TOOLS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_FIRE_CONTROLLING</TechType>
+			<PrereqTech>TECH_BASIC_TOOLS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_RITUALS</TechType>
+			<PrereqTech>TECH_IDOLIZATION</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_LEADERSHIP</TechType>
+			<PrereqTech>TECH_IDOLIZATION</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_RAFTING</TechType>
+			<PrereqTech>TECH_FISHERY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_RAFTING</TechType>
+			<PrereqTech>TECH_GATHERING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_HIDE_TENDING</TechType>
+			<PrereqTech>TECH_GATHERING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_HIDE_TENDING</TechType>
+			<PrereqTech>TECH_HUNTING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ANIMAL_HORDING</TechType>
+			<PrereqTech>TECH_HUNTING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_PRESERVATION</TechType>
+			<PrereqTech>TECH_HUNTING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_PRESERVATION</TechType>
+			<PrereqTech>TECH_FIRE_CONTROLLING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_PROJECTILES</TechType>
+			<PrereqTech>TECH_RITUALS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_PROJECTILES</TechType>
+			<PrereqTech>TECH_LEADERSHIP</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_WARFARE</TechType>
+			<PrereqTech>TECH_RITUALS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_WARFARE</TechType>
+			<PrereqTech>TECH_LEADERSHIP</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_WOOD_WORKING</TechType>
+			<PrereqTech>TECH_BASIC_TOOLS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_STONE_WORKING</TechType>
+			<PrereqTech>TECH_WOOD_WORKING</PrereqTech>
+		</Row>
+		<Delete TechType="TECH_MINING" />
+		<Row>
+			<TechType>TECH_MINING</TechType>
+			<PrereqTech>TECH_WOOD_WORKING</PrereqTech>
+		</Row>
+
+		<!--*************************************************************-->
+		<!--************************** ANCIENT **************************-->
+		<!--*************************************************************-->
+		
+		<Row>
+			<TechType>TECH_TRADING</TechType>
+			<PrereqTech>TECH_HIDE_TENDING</PrereqTech>
+		</Row>
+		<Delete TechType="TECH_AGRICULTURE" />
+		<Row>
+			<TechType>TECH_AGRICULTURE</TechType>
+			<PrereqTech>TECH_HIDE_TENDING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_AGRICULTURE</TechType>
+			<PrereqTech>TECH_ANIMAL_HORDING</PrereqTech>
+		</Row>
+		<Delete TechType="TECH_ANIMAL_HUSBANDRY" />
+		<Row>
+			<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
+			<PrereqTech>TECH_ANIMAL_HORDING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
+			<PrereqTech>TECH_PRESERVATION</PrereqTech>
+		</Row>
+		<Delete TechType="TECH_ARCHERY" />
+		<Row>
+			<TechType>TECH_ARCHERY</TechType>
+			<PrereqTech>TECH_WARFARE</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ARCHERY</TechType>
+			<PrereqTech>TECH_PROJECTILES</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_BUILDING</TechType>
+			<PrereqTech>TECH_STONE_WORKING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_BUILDING</TechType>
+			<PrereqTech>TECH_MINING</PrereqTech>
+		</Row>
+		<Delete TechType="TECH_SAILING" />
+		<Row>
+			<TechType>TECH_SAILING</TechType>
+			<PrereqTech>TECH_RAFTING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_WEAVING</TechType>
+			<PrereqTech>TECH_TRADING</PrereqTech>
+		</Row>
+		<Delete TechType="TECH_OPTICS" />
+		<Row>
+			<TechType>TECH_OPTICS</TechType>
+			<PrereqTech>TECH_CARTOGRAPHY</PrereqTech>
+		</Row>
+		<Delete TechType="TECH_CALENDAR" />
+		<Row>
+			<TechType>TECH_CALENDAR</TechType>
+			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_PROTECTIVE_BUILDING</TechType>
+			<PrereqTech>TECH_BUILDING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_PROTECTIVE_BUILDING</TechType>
+			<PrereqTech>TECH_ARCHERY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_DECORATIVE_BUILDING</TechType>
+			<PrereqTech>TECH_BUILDING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_CARTOGRAPHY</TechType>
+			<PrereqTech>TECH_SAILING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_BELIEFS</TechType>
+			<PrereqTech>TECH_WEAVING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_BELIEFS</TechType>
+			<PrereqTech>TECH_CALENDAR</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_BELIEFS</TechType>
+			<PrereqTech>TECH_POTTERY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ARITHMETIC</TechType>
+			<PrereqTech>TECH_THE_WHEEL</PrereqTech>
+		</Row>
+		<Delete TechType="TECH_MASONRY" />
+		<Row>
+			<TechType>TECH_MASONRY</TechType>
+			<PrereqTech>TECH_PROTECTIVE_BUILDING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_MASONRY</TechType>
+			<PrereqTech>TECH_DECORATIVE_BUILDING</PrereqTech>
+		</Row>
+		<Delete TechType="TECH_MATHEMATICS" />
+		<Row>
+			<TechType>TECH_MATHEMATICS</TechType>
+			<PrereqTech>TECH_ARITHMETIC</PrereqTech>
+		</Row>
+		<Delete TechType="TECH_CONSTRUCTION" />
+		<Row>
+			<TechType>TECH_CONSTRUCTION</TechType>
+			<PrereqTech>TECH_ARITHMETIC</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_CONSTRUCTION</TechType>
+			<PrereqTech>TECH_MASONRY</PrereqTech>
+		</Row>
+		<Delete TechType="TECH_PHILOSOPHY" />
+		<Row>
+			<TechType>TECH_PHILOSOPHY</TechType>
+			<PrereqTech>TECH_BELIEFS</PrereqTech>
+		</Row>
+		<Delete TechType="TECH_BRONZE_WORKING" />
+		<Row>
+			<TechType>TECH_BRONZE_WORKING</TechType>
+			<PrereqTech>TECH_DECORATIVE_BUILDING</PrereqTech>
+		</Row>
+		
+		
+		
+		
+		
+	</Technology_PrereqTechs>
+</GameData>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/28/2015 3:55:50 AM -->
+<GameData>
+	<Buildings>
+		<Update>
+			<Where Type="BUILDING_STONEHENGE" />
+			<Set PrereqTech="TECH_RITUALS" />
+		</Update>
+		<Update>
+			<Where Type="BUILDING_STONEHENGE" />
+			<Set MaxStartEra="ERA_PREHISTORIC" />
+		</Update>
+		<Update>
+			<Where Type="BUILDING_STONEHENGE" />
+			<Set Cost="100" />
+		</Update>
+		<Update>
+			<Where Type="BUILDING_GRANARY" />
+			<Set PrereqTech="TECH_AGRICULTURE" />
+		</Update>
+		<Update>
+			<Where Type="BUILDING_SHRINE" />
+			<Set PrereqTech="TECH_BELIEFS" />
+		</Update>
+		<Update>
+			<Where Type="BUILDING_STONE_WORKS" />
+			<Set PrereqTech="TECH_STONE_WORKING" />
+		</Update>
+		<Update>
+			<Where Type="BUILDING_PALACE" />
+			<Set PrereqTech="TECH_DECORATIVE_BUILDING" />
+		</Update>
+		<Update>
+			<Where Type="BUILDING_MONUMENT" />
+			<Set PrereqTech="TECH_DECORATIVE_BUILDING" />
+		</Update>
+		<Update>
+			<Where Type="BUILDING_CARAVANSARY" />
+			<Set PrereqTech="TECH_TRADING" />
+		</Update>
+	</Buildings>
+</GameData>

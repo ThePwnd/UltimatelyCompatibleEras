@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/11/2015 4:14:49 PM -->
+<GameData>
+	<BuildingClasses>
+		<!--************************ PREHISTORIC ************************-->
+		<!--WONDERS-->
+
+		<Row>
+			<Type>BUILDINGCLASS_CARNAC_STONES</Type>
+			<DefaultBuilding>BUILDING_CARNAC_STONES</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CARNAC_STONES</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+		
+		<!--BUILDINGS-->
+
+		<Row>
+			<Type>BUILDINGCLASS_ANCIENTERA</Type>
+			<DefaultBuilding>BUILDING_ANCIENTERA</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ANCIENTERA</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_ELDER_HUT</Type>
+			<DefaultBuilding>BUILDING_ELDER_HUT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ELDER_HUT</Description>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_LOOKOUT</Type>
+			<DefaultBuilding>BUILDING_LOOKOUT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_LOOKOUT</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_TOOL_CRAFTSMAN</Type>
+			<DefaultBuilding>BUILDING_TOOL_CRAFTSMAN</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_TOOL_CRAFTSMAN</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_TOOL_STORAGE</Type>
+			<DefaultBuilding>BUILDING_TOOL_STORAGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_TOOL_STORAGE</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_HERBALIST</Type>
+			<DefaultBuilding>BUILDING_HERBALIST</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_HERBALIST</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_GATHERERES_HUT</Type>
+			<DefaultBuilding>BUILDING_GATHERERES_HUT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_GATHERERES_HUT</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_HUNTERS_HUT</Type>
+			<DefaultBuilding>BUILDING_HUNTERS_HUT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_HUNTERS_HUT</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_BONFIRE</Type>
+			<DefaultBuilding>BUILDING_BONFIRE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_BONFIRE</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_FIRE_PIT</Type>
+			<DefaultBuilding>BUILDING_FIRE_PIT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_FIRE_PIT</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_SMOKEHOUSE</Type>
+			<DefaultBuilding>BUILDING_SMOKEHOUSE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SMOKEHOUSE</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_TOTEM</Type>
+			<DefaultBuilding>BUILDING_TOTEM</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_TOTEM</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_SACRED_GROUNDS</Type>
+			<DefaultBuilding>BUILDING_SACRED_GROUNDS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SACRED_GROUNDS</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CHIEFS_HUT</Type>
+			<DefaultBuilding>BUILDING_CHIEFS_HUT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CHIEFS_HUT</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_TIMBER_MILL</Type>
+			<DefaultBuilding>BUILDING_TIMBER_MILL</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_TIMBER_MILL</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_WOOD_WORKS</Type>
+			<DefaultBuilding>BUILDING_WOOD_WORKS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_WOOD_WORKS</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_DOCK</Type>
+			<DefaultBuilding>BUILDING_DOCK</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_DOCK</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_HIDE_TENDER</Type>
+			<DefaultBuilding>BUILDING_HIDE_TENDER</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_HIDE_TENDER</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_ANIMAL_PEN</Type>
+			<DefaultBuilding>BUILDING_ANIMAL_PEN</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ANIMAL_PEN</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_FOOD_STORAGE</Type>
+			<DefaultBuilding>BUILDING_FOOD_STORAGE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_FOOD_STORAGE</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_STORAGE_YARD</Type>
+			<DefaultBuilding>BUILDING_STORAGE_YARD</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_STORAGE_YARD</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_TRAINING_GROUNDS</Type>
+			<DefaultBuilding>BUILDING_TRAINING_GROUNDS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_TRAINING_GROUNDS</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_WELL</Type>
+			<DefaultBuilding>BUILDING_WELL</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_WELL</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_RAFT_ASSEMBLER</Type>
+			<DefaultBuilding>BUILDING_RAFT_ASSEMBLER</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_RAFT_ASSEMBLER</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_MONUMENTAL_STONE</Type>
+			<DefaultBuilding>BUILDING_MONUMENTAL_STONE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_MONUMENTAL_STONE</Description>
+		</Row>
+
+		<!--************************** ANCIENT **************************-->
+
+		<Row>
+			<Type>BUILDINGCLASS_PALISADE_WALL</Type>
+			<DefaultBuilding>BUILDING_PALISADE_WALL</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_PALISADE_WALL</Description>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_TOWER</Type>
+			<DefaultBuilding>BUILDING_TOWER</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_TOWER</Description>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_RANCH</Type>
+			<DefaultBuilding>BUILDING_RANCH</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_RANCH</Description>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_WEAVERY</Type>
+			<DefaultBuilding>BUILDING_WEAVERY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_WEAVERY</Description>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_POTTER</Type>
+			<DefaultBuilding>BUILDING_POTTER</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_POTTER</Description>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_SCHOOL</Type>
+			<DefaultBuilding>BUILDING_SCHOOL</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SCHOOL</Description>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_ARCHITECTS_POST</Type>
+			<DefaultBuilding>BUILDING_ARCHITECTS_POST</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ARCHITECTS_POST</Description>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_NAVIGATORS_GUILD</Type>
+			<DefaultBuilding>BUILDING_NAVIGATORS_GUILD</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_NAVIGATORS_GUILD</Description>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>
+
+	</BuildingClasses>
+</GameData>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/29/2015 12:39:12 AM -->
+<GameData>
+	<Language_en_US>
+		<!-- PREHISTORIC -->
+		<!-- UNIT_CLUBMAN -->
+		<Row Tag="TXT_KEY_UNIT_CLUBMAN_DESCRIPTION">
+			<Text>Clubman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CLUBMAN_PEDIA">
+			<Text>Clubs, along with sticks and stones, were one of the earliest weapons used by man. The big, hard, blunt weapon can knock out a person in one stong hit to the head, making it far deadlier than the sticks and stones prior.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CLUBMAN_STRATEGY">
+			<Text>Early-game military units are very weak and mainly serve as cannon fodder or an early defence for your civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CLUBMAN_HELP">
+			<Text>Very weak early-game prehistoric military unit.</Text>
+		</Row>
+
+		<!-- UNIT_SHAMAN -->
+		<Row Tag="TXT_KEY_UNIT_SHAMAN_DESCRIPTION">
+			<Text>Shaman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SHAMAN_PEDIA">
+			<Text>Shaman's were very early ritualistic semi-religious men or women that performed rituals and worship for the tribe. Shaman's were often seen as the healers and future tellers of the tribe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SHAMAN_STRATEGY">
+			<Text>Medics are very useful in any army and this early game medic can heal the low health prehistoric units during battle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SHAMAN_HELP">
+			<Text>The Shaman can heal all adjacent soldiers by 5 health each turn.</Text>
+		</Row>
+
+		<!-- UNIT_EARLY_SPEARMAN -->
+		<Row Tag="TXT_KEY_UNIT_EARLY_SPEARMAN_DESCRIPTION">
+			<Text>Early Spearman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EARLY_SPEARMAN_PEDIA">
+			<Text>Spears were used for many years due to their extensive reach and excellent defensive capabilities. A wall of spearmen could defend and push back the fearcist of enemies and especially mounted units. However, one small fault in the line could break the unit completely.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EARLY_SPEARMAN_STRATEGY">
+			<Text>Spearmen are strong defensive units capable of holding a line and preventing enemies from coming through. Although the early spearman is rather primitive and weak, it is still capable of defending against other primitive attackers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EARLY_SPEARMAN_HELP">
+			<Text>An earlier spearman that focuses on defence and anti-horse units.</Text>
+		</Row>
+
+		<!-- UNIT_SLINGER -->
+		<Row Tag="TXT_KEY_UNIT_SLINGER_DESCRIPTION">
+			<Text>Slinger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SLINGER_PEDIA">
+			<Text>Throwing rocks and projectiles was an effective way of killing a person. However, large rocks were often heavy and difficult to throw large ranges. Moreover, a good throwing arm still couldn't lob a rock far enough to useful in battle. That is where the slinger came in. A genius device that allowed small rocks to be fired rapidly at longer ranges. Although not too deadly, slingers were still useful in thinning and weakening enemy units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SLINGER_STRATEGY">
+			<Text>Shooting and throwing projectiles at your enemies is a very useful way to thin out and weaken your enemies. The slinger only uses small rocks and fires small distances but is still capable of dealing damage to weaker units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SLINGER_HELP">
+			<Text>Slingers are early-game ranged units that have a weak attack at a short range.</Text>
+		</Row>
+
+		<!-- UNIT_AXEMAN -->
+		<Row Tag="TXT_KEY_UNIT_AXEMAN_DESCRIPTION">
+			<Text>Axeman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AXEMAN_PEDIA">
+			<Text>Axes were a brutally efficient weapon for killing enemies. As well as being able to chop through trees, axes allowed soldiers to chop through enemy limbs and weapons with ease. Axes brought about great mutilation and pain in battles and death which made them the brutal weapon they are.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AXEMAN_STRATEGY">
+			<Text>Axes and chopping weaponry are excellent offensive weapons that can really deal some devastating damage to enemies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AXEMAN_HELP">
+			<Text>The strongest offensive unit in the Prehistoric era.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

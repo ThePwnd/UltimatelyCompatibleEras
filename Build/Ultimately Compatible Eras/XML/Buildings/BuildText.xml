@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/27/2015 7:39:27 AM -->
+<GameData>
+	<Language_en_US>
+		<!--************************ PREHISTORIC ************************-->
+		
+		<!--WONDERS-->
+
+		<!--BUILDING_CARNAC_STONES-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_CARNAC_STONES</Tag>
+			<Text>Carnac Stones</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_CARNAC_STONES_TEXT</Tag>
+			<Text>The Carnac stones are an exceptionally dense collection of megalithic sites around the village of Carnac, in Brittany, consisting of alignments, dolmens, tumuli and single menhirs. More than 3,000 prehistoric standing stones were hewn from local rock and erected by the pre/proto-Celtic people of Brittany, and form the largest such collection in the world.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_CARNAC_STONES_HELP</Tag>
+			<Text>One of the first wonders, it helps promote [ICON_RESEARCH] Science and [ICON_CULTURE] Culture for a fledlging prehistoric Civilization.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_CARNAC_STONES_QUOTE</Tag>
+			<Text>[NEWLINE][NEWLINE]"Through the study of fossils I had already been initiated into the mysteries of prehistoric creations." [NEWLINE] - Pierre Lotti</Text>
+		</Row>
+		
+		<!--BUILDINGS-->
+
+		<!--BUILDING_ANCIENTERA-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_ANCIENTERA</Tag>
+			<Text>Ancient Era Yields</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_ANCIENTERA_TEXT</Tag>
+			<Text>This building is automatically used to update the tile and feature yields. Please ignore unless your city is missing this building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_ANCIENTERA_HELP</Tag>
+			<Text>This building is automatically used to update the tile and feature yields. Please ignore unless your city is missing this building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_ANCIENTERA_STRATEGY</Tag>
+			<Text>This building is automatically used to update the tile and feature yields. Please ignore unless your city is missing this building.</Text>
+		</Row>
+		
+		<!--BUILDING_ELDER_HUT-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_ELDER_HUT</Tag>
+			<Text>Elder Hut</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_ELDER_HUT_TEXT</Tag>
+			<Text>The Elder Hut is the initial building that marks the creation of your first and capital city. This is where you, the Elder of your civilization, resides.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_ELDER_HUT_HELP</Tag>
+			<Text>Designates the city it is built in as the capital. [NEWLINE]Provides +1 [ICON_RESEARCH] Science and +1 [ICON_CULTURE] Culture. </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_ELDER_HUT_STRATEGY</Tag>
+			<Text>The Elder Hut provides an inital +1 [ICON_RESEARCH] Science and +1 [ICON_CULTURE] Culture and designates the city it is built in (most likely your first city) the Capital. This is naturally a lot less gain than the Palace which you will need to work up towards getting.</Text>
+		</Row>
+
+		<!--BUILDING_LOOKOUT-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_LOOKOUT</Tag>
+			<Text>Lookout</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_LOOKOUT_TEXT</Tag>
+			<Text>Provides a basic line of defence by alerting citizens of incoming threats.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_LOOKOUT_HELP</Tag>
+			<Text>The starting defense building. Provides a little extra defense.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_LOOKOUT_STRATEGY</Tag>
+			<Text>The Lookout provides +10 Defense to the city. This might not be a lot but is almost vital early on when your cities are virtually defenseless.</Text>
+		</Row>
+
+		<!--BUILDING_TOOL_CRAFTSMAN-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TOOL_CRAFTSMAN</Tag>
+			<Text>Tools Craftsman</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TOOL_CRAFTSMAN_TEXT</Tag>
+			<Text>The Tools Craftsman provides useful tools to labourers constructing your grand empire.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TOOL_CRAFTSMAN_HELP</Tag>
+			<Text>+25% [ICON_PRODUCTION] Production when training a Worker.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TOOL_CRAFTSMAN_STRATEGY</Tag>
+			<Text>The Tools Craftsman provides +1 [ICON_PRODUCTION] Production and +25% [ICON_PRODUCTION] Production when training workers. You will want all the production you can get this early on.</Text>
+		</Row>
+		
+		<!--BUILDING_TOOL_STORAGE-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TOOL_STORAGE</Tag>
+			<Text>Tools Storage</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TOOL_STORAGE_TEXT</Tag>
+			<Text>A storage facility that can store and provide various tools to those that need them.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TOOL_STORAGE_HELP</Tag>
+			<Text>Increases the [ICON_PRODUCTION] Production of a city, speeding the construction of Buildings and Units.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TOOL_STORAGE_STRATEGY</Tag>
+			<Text>The Tools Storage facility increases total [ICON_PRODUCTION] Production in your city by 10%. You will need every last [ICON_PRODUCTION] Production you can get this early on.</Text>
+		</Row>
+		
+		<!--BUILDING_HERBALIST-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_HERBALIST</Tag>
+			<Text>Herbalist</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_HERBALIST_TEXT</Tag>
+			<Text>The Herbalist provides basic herbal medicines and remedies for all those suffering.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_HERBALIST_HELP</Tag>
+			<Text>Improves the local [ICON_HAPPINESS_1] Happiness of your city.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_HERBALIST_STRATEGY</Tag>
+			<Text>THe Herbalist provides +2 local [ICON_HAPPINESS_1] Happiness to the city. People are less rowdy when they are healthier.</Text>
+		</Row>
+		
+		<!--BUILDING_GATHERER'S_HUT-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_GATHERERES_HUT</Tag>
+			<Text>Gatherer's Hut</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_GATHERERES_HUT_TEXT</Tag>
+			<Text>Gatherers collect nutritious foods from surrounding lands.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_GATHERERES_HUT_HELP</Tag>
+			<Text>+1 [ICON_FOOD] Food from Forest and Jungle tiles.[NEWLINE]Increases the [ICON_FOOD] growth of the city.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_GATHERERES_HUT_STRATEGY</Tag>
+			<Text>Provides +1 [ICON_FOOD] Food from Forest and Jungle tiles and increases the [ICON_FOOD] growth of the city by 10%.</Text>
+		</Row>
+		
+		<!--BUILDING_HUNTERS_HUT-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_HUNTERS_HUT</Tag>
+			<Text>Hunter's Hut</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_HUNTERS_HUT_TEXT</Tag>
+			<Text>Hunters harvest meat from surrounding animals.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_HUNTERS_HUT_HELP</Tag>
+			<Text>+1 [ICON_FOOD] Food from Grassland and Plains tiles.[NEWLINE]Increases the [ICON_FOOD] growth of the city.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_HUNTERS_HUT_STRATEGY</Tag>
+			<Text>Provides +1 [ICON_FOOD] Food from Grassland and Plains tiles and increases the [ICON_FOOD] growth of the city by 10%.</Text>
+		</Row>
+		
+		<!--BUILDING_BONFIRE-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_BONFIRE</Tag>
+			<Text>Bonfire</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_BONFIRE_TEXT</Tag>
+			<Text>The city Bonfire is a community social centre allowing citizens to commune and entertain one another around the bonfire.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_BONFIRE_HELP</Tag>
+			<Text>Increases the [ICON_HAPPINESS_1] Happiness and [ICON_CULTURE] Culture of a city, speeding the growth of the city's territory and the civilization's acquisition of Social Policies.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_BONFIRE_STRATEGY</Tag>
+			<Text>The City Bonfire increases local [ICON_HAPPINESS_1] Happiness by 2 and increase the [ICON_CULTURE] Culture of the city by +1. Gather round children for I have a great story to tell.</Text>
+		</Row>
+		
+		<!--BUILDING_FIRE_PIT-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_FIRE_PIT</Tag>
+			<Text>Fire Pit</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_FIRE_PIT_TEXT</Tag>
+			<Text>The Fire Pit is an early kitchen where meat can be cooked and shared among citizens.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_FIRE_PIT_HELP</Tag>
+			<Text>Provides [ICON_FOOD] Food for your city to grow.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_FIRE_PIT_STRATEGY</Tag>
+			<Text>The City Fire Pit provides +2 [ICON_FOOD] Food for the city and cannot by any means be used in the same way as a Bonfire.</Text>
+		</Row>
+		
+		<!--BUILDING_SMOKEHOUSE-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SMOKEHOUSE</Tag>
+			<Text>Smokehouse</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SMOKEHOUSE_TEXT</Tag>
+			<Text>Smokehouses are used to preserve food for longer periods.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SMOKEHOUSE_HELP</Tag>
+			<Text>+25% [ICON_FOOD] Food. [NEWLINE][NEWLINE]Increases the [ICON_FOOD] growth of the city.  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SMOKEHOUSE_STRATEGY</Tag>
+			<Text>The Smokehouse provides a whopping +15% [ICON_FOOD] Food increase in the city it is built, I mean who doesn't love some smoked beef.</Text>
+		</Row>
+		
+		<!--BUILDING_TOTEM-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TOTEM</Tag>
+			<Text>Totem</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TOTEM_TEXT</Tag>
+			<Text>A totem is a spirit being, sacred object, or symbol that serves as an emblem for your citizens.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TOTEM_HELP</Tag>
+			<Text>Provides Faith in the city it is built, increasing your chance of founding a pantheon or for a Great Prophet to appear.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TOTEM_STRATEGY</Tag>
+			<Text>The Totem is an early religious building that provides +1 Faith to the city it is built in.</Text>
+		</Row>
+		
+		<!--BUILDING_SACRED_GROUNDS-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SACRED_GROUNDS</Tag>
+			<Text>Sacred Grounds</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SACRED_GROUNDS_TEXT</Tag>
+			<Text>An area considered sacred or holy by your people.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SACRED_GROUNDS_HELP</Tag>
+			<Text>City must not be in Desert.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SACRED_GROUNDS_STRATEGY</Tag>
+			<Text>Provides an extra +1 Faith to the city it is built in. Sacred Grounds are areas considered holy such as certain forests and mountains.</Text>
+		</Row>
+		
+		<!--BUILDING_CHIEFS_HUT-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_CHIEFS_HUT</Tag>
+			<Text>Chief's Hut</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_CHIEFS_HUT_TEXT</Tag>
+			<Text>The Chief is an early mayor, overseeing the city and its goals.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_CHIEFS_HUT_HELP</Tag>
+			<Text>Increases the [ICON_RESEARCH] Science and [ICON_PRODUCTION] Production of a city.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_CHIEFS_HUT_STRATEGY</Tag>
+			<Text>The Chief's Hut provides +1 [ICON_RESEARCH] Science and +1 [ICON_CULTURE] Culture of the city. The Chief is also exceptionally good at ordering around your citizens and hence provides a further +10% [ICON_PRODUCTION] Production bonus to your city.</Text>
+		</Row>
+		
+		<!--BUILDING_TIMBER_MILL-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TIMBER_MILL</Tag>
+			<Text>Timber mill</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TIMBER_MILL_TEXT</Tag>
+			<Text>Timber Mills convert lumber into timber.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TIMBER_MILL_HELP</Tag>
+			<Text>Increases the [ICON_PRODUCTION] Production of a city, speeding the construction of Buildings and Units.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TIMBER_MILL_STRATEGY</Tag>
+			<Text>Provides a whopping +20% [ICON_PRODUCTION] Production boost to the city it is built in.</Text>
+		</Row>
+		
+		<!--BUILDING_WOOD_WORKS-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_WOOD_WORKS</Tag>
+			<Text>Wood Works</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_WOOD_WORKS_TEXT</Tag>
+			<Text>All wood based items, weapons and furniture is contructed at this wood works.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_WOOD_WORKS_HELP</Tag>
+			<Text>+1 [ICON_PRODUCTION] Production from Forest and Jungle tiles.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_WOOD_WORKS_STRATEGY</Tag>
+			<Text>The Wood Works provides +1 [ICON_PRODUCTION] Production as well as increases [ICON_PRODUCTION] Production from Jungle and Forest tiles by +1.</Text>
+		</Row>
+		
+		<!--BUILDING_DOCK-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_DOCK</Tag>
+			<Text>Dock</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_DOCK_TEXT</Tag>
+			<Text>A Dock is the early phase of a harbour.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_DOCK_HELP</Tag>
+			<Text>City must be built next to a River or Lake.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_DOCK_STRATEGY</Tag>
+			<Text>The Dock provides +2 [ICON_FOOD] Food as well as increases the [ICON_FOOD] Food of Lake and River tiles by +1.</Text>
+		</Row>
+		
+		<!--BUILDING_HIDE_TENDER-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_HIDE_TENDER</Tag>
+			<Text>Hide Tender</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_HIDE_TENDER_TEXT</Tag>
+			<Text>The Hide Tender can create leathers and hides from raw skins.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_HIDE_TENDER_HELP</Tag>
+			<Text>Each source of [ICON_RES_COW] Cattle, [ICON_RES_BISON] Bison and [ICON_RES_DEER] Deer worked by this City provide +1 extra [ICON_PRODUCTION] Production.[NEWLINE]City must have at least one of these resources improved.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_HIDE_TENDER_STRATEGY</Tag>
+			<Text>The Hide Tender provides +1 extra [ICON_PRODUCTION] Production from each source of [ICON_RES_COW] Cattle, [ICON_RES_BISON] Bison and [ICON_RES_DEER] Deer worked by this City. The City must have at least one of these resources improved.</Text>
+		</Row>
+		
+		<!--BUILDING_ANIMAL_PEN-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_ANIMAL_PEN</Tag>
+			<Text>Animal Pen</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_ANIMAL_PEN_TEXT</Tag>
+			<Text>Cage an animal for too long and it will start acting like one.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_ANIMAL_PEN_HELP</Tag>
+			<Text>Each source of [ICON_RES_COW] Cattle and [ICON_RES_SHEEP] Sheep worked by this City produce +1 [ICON_FOOD] Food.[NEWLINE]City must have at least one of these resources improved.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_ANIMAL_PEN_STRATEGY</Tag>
+			<Text>As well as providing +1 [ICON_FOOD] Food, the Animal Pen also increases the [ICON_FOOD] Food of [ICON_RES_COW] Cattle and [ICON_RES_SHEEP] Sheep by +1.</Text>
+		</Row>
+		
+		<!--BUILDING_FOOD_STORAGE-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_FOOD_STORAGE</Tag>
+			<Text>Food Storage</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_FOOD_STORAGE_TEXT</Tag>
+			<Text>Storing food adequately can drastically increase its longevity.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_FOOD_STORAGE_HELP</Tag>
+			<Text>25% of [ICON_FOOD] Food is carried over after a new [ICON_CITIZEN] Citizen is born.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_FOOD_STORAGE_STRATEGY</Tag>
+			<Text>The Food Storage facility allows the city to grow more effectively as 25% of the [ICON_FOOD] Food is carried over after a new [ICON_CITIZEN] Citizen is born.</Text>
+		</Row>
+		
+		<!--BUILDING_STORAGE_YARD-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_STORAGE_YARD</Tag>
+			<Text>Storage Yard</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_STORAGE_YARD_TEXT</Tag>
+			<Text>The storage of all resources and materials.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_STORAGE_YARD_HELP</Tag>
+			<Text>+10% [ICON_PRODUCTION] Production when constructing a Building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_STORAGE_YARD_STRATEGY</Tag>
+			<Text>The Storage Yard provides a +10% [ICON_PRODUCTION] Production boost towards constructing buildings.</Text>
+		</Row>
+		
+		<!--BUILDING_TRAINING_GROUNDS-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TRAINING_GROUNDS</Tag>
+			<Text>Training Grounds</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TRAINING_GROUNDS_TEXT</Tag>
+			<Text>Soldiers train every day to become great warriors.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TRAINING_GROUNDS_HELP</Tag>
+			<Text>+25% [ICON_PRODUCTION] Production when training a Unit.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TRAINING_GROUNDS_STRATEGY</Tag>
+			<Text>Training Grounds provide a +25% [ICON_PRODUCTION] Production boost towards Ground Units. Parry and Riposte.</Text>
+		</Row>
+		
+		<!--BUILDING_RAFT_ASSEMBLER-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_RAFT_ASSEMBLER</Tag>
+			<Text>Raft Assembler</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_RAFT_ASSEMBLER_TEXT</Tag>
+			<Text>Rafts and boats are constructed by the raft assemblers.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_RAFT_ASSEMBLER_HELP</Tag>
+			<Text>City must be built on the coast.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_RAFT_ASSEMBLER_STRATEGY</Tag>
+			<Text>The Raft Assembler provides +2 [ICON_PRODUCTION] Production and +10% [ICON_PRODUCTION] Production towards building Naval Units.</Text>
+		</Row>
+
+		<!--BUILDING_WELL-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_WELL</Tag>
+			<Text>Well</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_WELL_TEXT</Tag>
+			<Text>Well, well, well, look what we have here.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_WELL_HELP</Tag>
+			<Text>+5% [ICON_FOOD] Food and +1 [ICON_FOOD] Food from Desert tiles. [NEWLINE]Increases the [ICON_FOOD] growth of the city.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_WELL_STRATEGY</Tag>
+			<Text>The Well provides +1 [ICON_FOOD] Food to desert tiles worked by the city. It also provides a bonus +5% [ICON_FOOD] to growth.</Text>
+		</Row>
+		
+		<!--BUILDING_MONUMENTAL_STONE-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_MONUMENTAL_STONE</Tag>
+			<Text>Monumental Stone</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_MONUMENTAL_STONE_TEXT</Tag>
+			<Text>A monument to all your sins.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_MONUMENTAL_STONE_HELP</Tag>
+			<Text>Provides [ICON_CULTURE] Culture in your city.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_MONUMENTAL_STONE_STRATEGY</Tag>
+			<Text>The Monumental Stone provides +1 [ICON_CULTURE] Culture in the city it is built in. You can guess where the idea of this building comes from.</Text>
+		</Row>
+
+		<!--************************** ANCIENT **************************-->
+
+		<!--BUILDING_PALISADE_WALL-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_PALISADE_WALL</Tag>
+			<Text>Palisade Wall</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_PALISADE_WALL_TEXT</Tag>
+			<Text>A basic line of defense, keeps people in as well as it keeps people out. Prone to fires.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_PALISADE_WALL_HELP</Tag>
+			<Text>Increases a city's Defense Strength by 5 and Hit Points by 50, making the city less vulnerable to attacks and more difficult to capture.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_PALISADE_WALL_STRATEGY</Tag>
+			<Text>The Palisade wall provides a +5 Defense and +50 Hit Points boost to your city. Its the first wall you can unlock.</Text>
+		</Row>
+
+		<!--BUILDING_TOWER-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TOWER</Tag>
+			<Text>Tower</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TOWER_TEXT</Tag>
+			<Text>An archer's tower where sharpshooters can fire on the enemy while protected.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TOWER_HELP</Tag>
+			<Text>Provides a +2 Defense boost to your city and allows it to barrage enemies within range.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TOWER_STRATEGY</Tag>
+			<Text>The Tower provides a +2 Defense boost to your city and (should) only after building it finally allow your city to barrage enemy units but haven't gotten that working just yet.</Text>
+		</Row>
+
+		<!--BUILDING_RANCH-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_RANCH</Tag>
+			<Text>Ranch</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_RANCH_TEXT</Tag>
+			<Text>Where your 100% horse meat burgers come from.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_RANCH_HELP</Tag>
+			<Text>Provides [ICON_FOOD] Food and [ICON_PRODUCTION] Production from [ICON_RES_COW] Cattle and [ICON_RES_HORSE] Horses.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_RANCH_STRATEGY</Tag>
+			<Text>The Ranch provides +1 [ICON_PRODUCTION] Production and +1 [ICON_FOOD] Food. Ranches also increase [ICON_FOOD] Food from [ICON_RES_COW] Cattle by +1 and [ICON_PRODUCTION] Production from [ICON_RES_HORSE] Horses by +1.</Text>
+		</Row>
+
+		<!--BUILDING_WEAVERY-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_WEAVERY</Tag>
+			<Text>Weavery</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_WEAVERY_TEXT</Tag>
+			<Text>Textiles are produced from cotton, silks and furs.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_WEAVERY_HELP</Tag>
+			<Text>Provides +2 [ICON_CULTURE] Culture and Increases [ICON_CULTURE] Culture rate of city by 10%.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_WEAVERY_STRATEGY</Tag>
+			<Text>The Weavery provides +1 [ICON_PRODUCTION] Production. It also provides +2 [ICON_CULTURE] Culture and a +10% [ICON_CULTURE] Culture rate from all the cultural garments.</Text>
+		</Row>
+
+		<!--BUILDING_POTTER-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_POTTER</Tag>
+			<Text>Potter</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_POTTER_TEXT</Tag>
+			<Text>Because everyone needs a pot to put their random crap in.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_POTTER_HELP</Tag>
+			<Text>Provides a small amount of [ICON_FOOD] Food, [ICON_PRODUCTION] Production and [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_POTTER_STRATEGY</Tag>
+			<Text>The Potter provides a +1 [ICON_FOOD] Food, +1 [ICON_PRODUCTION] Production and +1 [ICON_CULTURE] Culture, I mean we use pots for everything.</Text>
+		</Row>
+
+		<!--BUILDING_SCHOOL-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SCHOOL</Tag>
+			<Text>School</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SCHOOL_TEXT</Tag>
+			<Text>An early school where children can learn and develop.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SCHOOL_HELP</Tag>
+			<Text>Provides [ICON_RESEARCH] Science based on [ICON_CITIZEN] Population.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SCHOOL_STRATEGY</Tag>
+			<Text>The School provides +1 [ICON_RESEARCH] Science per 4 [ICON_CITIZEN] Population.</Text>
+		</Row>
+
+		<!--BUILDING_ARCHITECTS_POST-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_ARCHITECTS_POST</Tag>
+			<Text>Architect's Post</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_ARCHITECTS_POST_TEXT</Tag>
+			<Text>The architect of the city can improve existing buildings as well as overseer the construction of new ones that can stand the test of time.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_ARCHITECTS_POST_HELP</Tag>
+			<Text>Increases wonder construction speed by 10%.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_ARCHITECTS_POST_STRATEGY</Tag>
+			<Text>The Architects post provides +1 [ICON_CULTURE] Culture and +1 [ICON_PRODUCTION] Production as well as a +5% extra [ICON_PRODUCTION] Production and +10% extra [ICON_CULTURE] Culture boost due to all the pretty buildings.</Text>
+		</Row>
+
+		<!--BUILDING_NAVIGATORS_GUILD-->
+		<Row>
+			<Tag>TXT_KEY_BUILDING_NAVIGATORS_GUILD</Tag>
+			<Text>Navigator's Guild</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_NAVIGATORS_GUILD_TEXT</Tag>
+			<Text>The spice must flow.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_NAVIGATORS_GUILD_HELP</Tag>
+			<Text>Increases tile movement and view range for ships.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_NAVIGATORS_GUILD_STRATEGY</Tag>
+			<Text>The Navigator's Guild provides +1 [ICON_CULTURE] Culture and +1 [ICON_SCIENCE] Science as well as granting an extra +1 Movement to all ships.</Text>
+		</Row>
+
+	</Language_en_US>
+	
+</GameData>

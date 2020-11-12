@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="9e653fb9-59c6-4b28-83b2-673dfbfe5e0c" version="9">
+  <Properties>
+    <Name>Ultimately Compatible Eras</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>This is a mod of Darth Animus's UEM that is reworked to be compatible with other eras mods that make relative tech tree modific</Teaser>
+    <Description>This is a mod of Darth Animus's UEM that is reworked to be compatible with other eras mods that make relative tech tree modifications, like Future Worlds and Enlightenment Era.  
+
+Credit goes to Darth Animus for doing all the hardwork of designing and building the mod in its current state, and a special thanks goes to whoward for coming up with the method to make multiple era mods compatible with each other - the method that this mod mod implements.</Description>
+    <Authors>Darth Animus, Vulycan</Authors>
+    <SpecialThanks>whoward69</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="c5848843-f95b-4d2c-adb4-c9b5bfb03b5f" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - The Cree" />
+    <Mod id="7c872e3f-d8f7-496f-983a-3bdf62fa1f34" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - Vietnam ft. Trung Sisters" />
+    <Mod id="7bd8732c-e219-4f3e-b223-7212595b4d87" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - Zapotecs" />
+    <Mod id="e9429c9f-267c-4d7a-8e2e-13b906661130" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies (and Senshi) - Australia (Bob Hawke)" />
+    <Mod id="c2fdcab0-c2b2-465b-a70e-63e899a2c8c7" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies (and Senshi) - Samoa" />
+    <Mod id="7f240771-44f6-4f49-9869-ff0afcc8f72e" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies' Anishinaabe" />
+    <Mod id="0072a319-d2bd-46f0-a572-03743d3bb336" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies The Coast Salish" />
+    <Mod id="28f17a62-475f-41a6-9908-954c75e450a2" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - Afghanistan" />
+    <Mod id="d926ec84-86c4-4d72-856f-b5f25154e463" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - Australia (John Curtin)" />
+    <Mod id="03934433-eafb-4ec5-a481-ed72a16b1990" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - Australian Commonwealth" />
+    <Mod id="8562c016-f5bb-40f1-b37e-d3b40d3cf13e" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - Canadian Dominion" />
+    <Mod id="7e0bcb39-55ed-4863-9d1a-6e47da170bd6" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - Cuba" />
+    <Mod id="23d8b649-54d1-4597-9846-9cec68329d8a" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - Greenland" />
+    <Mod id="b3b3c21c-b119-49dd-81e3-82c2bed17d6a" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - Kimberley Aboriginals" />
+    <Mod id="1c6756f5-6172-4015-9e41-be81f054fe2d" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - Kulin" />
+    <Mod id="355e6185-0f39-4079-8b47-3d6d893e1d5e" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - Malaysia" />
+    <Mod id="5a13b06d-9298-40f9-a511-522a825af190" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - Mexican Republic" />
+    <Mod id="0c81d6e6-2b9f-4ae6-bb81-18e6f23ea04a" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - Nigeria" />
+    <Mod id="2b5ad645-8094-4ed7-a488-1e49eb9277aa" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - Phillipine Republic" />
+    <Mod id="16887ef4-da38-47fd-a777-b9265b7b96f6" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - South Africa" />
+    <Mod id="910fd32c-1b89-489d-a890-d94d36dc4cdf" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - The Beothuk" />
+    <Mod id="90090edf-4691-4393-b7ed-e7f07e240387" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - The Blackfoot Confederacy" />
+    <Mod id="4e043f94-14bd-4dad-b7a8-03d67ac751d5" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - The Boers" />
+    <Mod id="f6032cbe-f319-4203-af62-afae90874d34" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - The Chimu" />
+    <Mod id="43dc58a4-11f3-4054-8864-6ef926393176" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - The Dene" />
+    <Mod id="dcdaabd2-b424-4680-bdc0-d8692a1a9619" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - The Inuit (v.3)" />
+    <Mod id="da8df993-1a8a-4696-88fb-f5414013275e" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - The Murri" />
+    <Mod id="df2c3e13-88fc-4411-bdac-be965fba662e" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - The Pridelands" />
+    <Mod id="bb769714-1243-4d42-9c13-bdbb55405063" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - The Tlingit" />
+    <Mod id="3f51884b-c64b-49a3-89c1-580021ae9b86" minversion="0" maxversion="999" title="[BNW] Colonialist Legacies - The Wabanaki" />
+    <Mod id="fec926a3-9e70-429b-b5ac-8e10c97a53d4" minversion="0" maxversion="999" title="The Cuman Empire" />
+    <Mod id="f21e720c-7b62-4f56-8e9b-199e754d7cba" minversion="0" maxversion="999" title="The Kuikuro (Brave New World)" />
+    <Mod id="0cc8daf2-d8b0-4e76-a4de-c8fe48a67350" minversion="0" maxversion="999" title="The Mississippi (Brave New World)" />
+    <Mod id="2aaf6d6f-8ca6-48fb-b6ba-87e23ff43a3d" minversion="0" maxversion="999" title="The Mossi Empire" />
+    <Mod id="d88a1551-742e-4a97-a72e-ef804faca442" minversion="0" maxversion="999" title="The Sioux (Brave New World)" />
+    <Mod id="ab17b204-82d7-42eb-93b9-61fae8356e06" minversion="0" maxversion="999" title="The Sogdian Empire" />
+    <Mod id="db04acf9-0df6-4584-a7f4-b91e3fd771b5" minversion="0" maxversion="999" title="The Vainakhs" />
+    <Mod id="2146aea8-5d53-4ef3-8bb3-278cecc76efc" minversion="0" maxversion="999" title="TopHat's Aleut" />
+    <Mod id="55fc3bcf-4d5e-4046-ac39-fb5d4998aa0c" minversion="0" maxversion="999" title="TopHat's Ket" />
+    <Mod id="6c8d7a24-905f-403b-afcb-630a7c096257" minversion="0" maxversion="999" title="TopHat's Namibia" />
+    <Mod id="701bb4de-f082-4670-a411-6f34b89ac121" minversion="0" maxversion="999" title="TopHat's Omagua" />
+    <Mod id="00808576-3b2c-4364-89bc-62148958cce0" minversion="0" maxversion="999" title="Uighur_Caesar's Apache" />
+    <Mod id="626975e0-b58e-4f29-96f6-ac796cbaeb70" minversion="0" maxversion="999" title="Uighur_Caesar's Seminole" />
+    <Mod id="3257a94f-1211-4d8b-8ed0-d3358b111e18" minversion="0" maxversion="999" title="Uyghur Khaganate" />
+    <Mod id="41817ac3-dbd2-4301-b85d-583ed513df2b" minversion="0" maxversion="999" title="Wei Kingdom" />
+    <Mod id="c4304b44-312e-4d1b-8c13-ff086c89e3bd" minversion="0" maxversion="999" title="Wu Kingdom" />
+    <Mod id="5ed9bb0a-a339-4841-91b4-7703beae59e4" minversion="0" maxversion="999" title="Benin (Brave New World)" />
+    <Mod id="c6ea60cf-6bcd-4b67-b82e-8d879022e175" minversion="0" maxversion="999" title="JFD's Civilizations - Norway (Haakon IV)" />
+    <Mod id="26a636b9-5290-4a2b-9b96-b0eb9e49be83" minversion="0" maxversion="999" title="JFD's Civilizations - The Turks (Mehmed II)" />
+    <Mod id="c130ca83-d8b6-41bd-9045-62eea5eb6518" minversion="0" maxversion="999" title="JFD's The Khazar Khaganate" />
+    <Mod id="b03b412d-82c2-416b-b16c-ebefff741b1e" minversion="0" maxversion="999" title="Jin Dynasty" />
+    <Mod id="539c48c9-2a8f-4920-9aaf-656dda98c493" minversion="0" maxversion="999" title="Khanate of Sibir" />
+    <Mod id="684ce03a-e1d4-4df9-84f8-f4543d6a435d" minversion="0" maxversion="999" title="Kongo (Brave New World)" />
+    <Mod id="442518fc-61ee-445d-b344-b8913fe019f9" minversion="0" maxversion="999" title="Lu Bu Forces" />
+    <Mod id="d34fb363-be02-4c3c-8c1c-0da296456f27" minversion="0" maxversion="999" title="Mali (Brave New World)" />
+    <Mod id="184ce8f0-91ef-46d1-9aa2-6f72cc492a85" minversion="0" maxversion="999" title="MC's Tibetan Civilization" />
+    <Mod id="1fc786b1-1284-49b9-9f88-06d96faffb82" minversion="0" maxversion="999" title="Nepal (BNW)" />
+    <Mod id="a7b65056-f577-46f5-bf3d-b24b8d540b88" minversion="0" maxversion="999" title="Ryukyu Kingdom (Brave New World)" />
+    <Mod id="fc683fe0-e0bf-4c1f-9927-c58bd21cfa48" minversion="0" maxversion="999" title="Shu Kingdom" />
+    <Mod id="7b2d759e-3366-41c7-8e0c-b4ebfe1c55f0" minversion="0" maxversion="999" title="Sukritact's Khmer Civilization" />
+    <Mod id="76e62793-78b2-4657-bf8a-a8e38fb1286f" minversion="0" maxversion="999" title="Sukritact's Sami Civilization" />
+    <Mod id="5d7ee85c-6468-4286-b0f8-f7ac33248a43" minversion="0" maxversion="999" title="The Bruneian Empire" />
+    <Mod id="e9bc29c3-31ec-4207-9656-48908ebbbf71" minversion="0" maxversion="999" title="The Cherokee" />
+    <Mod id="ba638149-ece9-4d48-ab6a-c54c1d30bed5" minversion="0" maxversion="999" title="Coasts and Rivers Yield Gold Again" />
+    <Mod id="be2d13ee-d18d-410e-8f04-7cd19cd99a98" minversion="0" maxversion="999" title="More Luxuries" />
+  </References>
+  <Blocks>
+    <Mod id="ebfd41c6-94ad-47ed-9383-6c9509c4bdfe" minversion="0" maxversion="999" title="Ultimate Eras Mod (V 8.1 TEXT UPDATE)" />
+  </Blocks>
+  <Files>
+    <File md5="BE08A2A86BFC0C169772B1D188B784AA" import="1">Art/ERA_Ancient.dds</File>
+    <File md5="77A5C7A4606FA236125B262B786C5CA0" import="0">Art/IconTextureAtlases.xml</File>
+    <File md5="F8D792198202A52CF6D3F9F9A5838789" import="1">Art/PrehistoricAtlas128.dds</File>
+    <File md5="0EEB628322EB728360899B1A4CA1EEE0" import="1">Art/PrehistoricAtlas214.dds</File>
+    <File md5="52CB4E0340BA5E260BD83F7B6EB99969" import="1">Art/PrehistoricAtlas256.dds</File>
+    <File md5="957A773E0BBF44E155FD23BF3B28D1AD" import="1">Art/PrehistoricAtlas45.dds</File>
+    <File md5="58B1C5DAE0A2FC89EA0866E765DACE5A" import="1">Art/PrehistoricAtlas64.dds</File>
+    <File md5="22886EA0C76628469A61C610F6E5E0B7" import="1">Lua/NewEraPopup.lua</File>
+    <File md5="E529E6FEC0DA7349ECB4DFAB196A805F" import="0">SQL/EraSplashScreen.sql</File>
+    <File md5="32387BA214E0FAE45D22D22AE7AA4CFD" import="0">SQL/EraUpdating.sql</File>
+    <File md5="0932B25FDA13174842938DE1E3123311" import="0">SQL/InsertNewEra.sql</File>
+    <File md5="96B826FF863CBE7D5F254D3B545318AB" import="0">SQL/Mod Compatibility/CoastAndRiversYieldGold.sql</File>
+    <File md5="757DB696F516CEE7C6C8C4CCB6AAEC7B" import="0">SQL/Mod Compatibility/CoastAndRiversYieldGold.xml</File>
+    <File md5="F40D3F28386487F83111E4E6203F6A56" import="0">SQL/Mod Compatibility/MoreLuxuries.sql</File>
+    <File md5="7CF50C30CB6DC60DA0CAD4E69F4A879C" import="0">SQL/ShiftTechTree.sql</File>
+    <File md5="75820CCB3330B929393ED81888F5B1DF" import="0">SQL/StandardizeUnits.sql</File>
+    <File md5="124869D0C8C6D67A8C01A8BF951761E5" import="0">SQL/StartingTechs.sql</File>
+    <File md5="E35629F8F5641B5E16924C2B2A3D633E" import="0">XML/Buildings/BuildFlavor.xml</File>
+    <File md5="6116C252A0518A62EE2EC44A4949B782" import="0">XML/Buildings/BuildingClasses.xml</File>
+    <File md5="4A2E9F0A8224D4BA9B1326A433C03D64" import="0">XML/Buildings/Buildings.xml</File>
+    <File md5="F721782D33ABC4764797E7CD4CADA9BD" import="0">XML/Buildings/BuildText.xml</File>
+    <File md5="77CEC1BCD635920B0E24743FAC1721A1" import="0">XML/Buildings/BuildUpdate.xml</File>
+    <File md5="D7EF90301C192F725DB9C9A653680514" import="0">XML/Buildings/BuildYields.xml</File>
+    <File md5="778589E7A5B73D7468B3B684B73F7BB8" import="0">XML/Civilizations.xml</File>
+    <File md5="2582DFCBC9B04C9D5904F71B0CD64B08" import="0">XML/GlobalDefines.xml</File>
+    <File md5="FF537F51EBEFC5AF9AE1304D65722A5D" import="0">XML/Processes.xml</File>
+    <File md5="B815167F5AF56B3A1510F29C03E1731D" import="0">XML/Resources/Builds.xml</File>
+    <File md5="2D7397C4851413C8C3D688DDE36A795E" import="0">XML/Resources/Features.xml</File>
+    <File md5="E3C74A9B0CD355F50DB10BE1DB155A31" import="0">XML/Resources/Improvements.xml</File>
+    <File md5="EBA9773B018D91474185E9890BCD696D" import="0">XML/Resources/Resources.xml</File>
+    <File md5="DDE9BEAA6A901004971AA2669A31886D" import="0">XML/Resources/ResText.xml</File>
+    <File md5="5680CEF3B4F3A814001C3F95E2F38B3C" import="0">XML/Resources/Terrains.xml</File>
+    <File md5="EA27BD34E7F5944F9D44C696F5F8686F" import="0">XML/Resources/Yields.xml</File>
+    <File md5="6AD5EDB83A41494CF5513649F3D7A354" import="0">XML/Social Policies/PolicyUpdate.xml</File>
+    <File md5="70C2645A24A33D2D66A427F2E4FE721A" import="0">XML/Technologies/Eras.xml</File>
+    <File md5="F0F4B8D490B98F1D16A18D35153B36EB" import="0">XML/Technologies/TechFlavor.xml</File>
+    <File md5="74F5276C90EAD636DD93E0728C52EB47" import="0">XML/Technologies/Technologies.xml</File>
+    <File md5="2C52DC79AA3396760A6E5D43D8FC8107" import="0">XML/Technologies/TechPreq.xml</File>
+    <File md5="47C488B45D1C60487F7EA0BC8C4271F9" import="0">XML/Technologies/TechText.xml</File>
+    <File md5="8F11B55A401D2110657155781E15728F" import="0">XML/Units/UnitClasses.xml</File>
+    <File md5="B51123620560B51F5602C3F79BD2415F" import="0">XML/Units/UnitClassUpgrades.xml</File>
+    <File md5="86BD2A7EE677688FAC360DAEB799C581" import="0">XML/Units/UnitFlavors.xml</File>
+    <File md5="0D63172F8F2C8C9F6A36AC1E253DC0EA" import="0">XML/Units/UnitFreePromotions.xml</File>
+    <File md5="410186E37A5B196140A0C49CF393D3B8" import="0">XML/Units/UnitPromotions.xml</File>
+    <File md5="3541E946DC44FF880D17CA0F95012ABE" import="0">XML/Units/Units.xml</File>
+    <File md5="3B1643DDEB454AE0A234D8FD716A3586" import="0">XML/Units/UnitsText.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/BuildFlavor.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/BuildYields.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/BuildText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/BuildUpdate.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Processes.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Resources/Terrains.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Resources/Features.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Resources/Resources.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Resources/Builds.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Resources/Improvements.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Resources/Yields.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Resources/ResText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/UnitClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/UnitFlavors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/UnitClassUpgrades.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/UnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/UnitFreePromotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/UnitsText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GlobalDefines.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/EraSplashScreen.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Technologies/Eras.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/EraUpdating.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ShiftTechTree.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Technologies/Technologies.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Technologies/TechPreq.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Technologies/TechText.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/StartingTechs.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Mod Compatibility/CoastAndRiversYieldGold.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Mod Compatibility/MoreLuxuries.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/InsertNewEra.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

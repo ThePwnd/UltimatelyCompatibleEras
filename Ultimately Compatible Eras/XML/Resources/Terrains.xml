@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/29/2015 9:22:02 AM -->
+<GameData>
+    <Terrain_Yields>
+		<Update>
+			<Where TerrainType="TERRAIN_GRASS" />
+			<Set Yield="1" />
+		</Update>
+		<Update>
+			<Where TerrainType="TERRAIN_PLAINS" YieldType="YIELD_FOOD"/>
+			<Set Yield="0" />
+		</Update>
+		<Update>
+			<Where TerrainType="TERRAIN_TUNDRA" />
+			<Set Yield="0" />
+		</Update>
+		<Update>
+			<Where TerrainType="TERRAIN_OCEAN" />
+			<Set Yield="0" />
+		</Update>
+		<Update>
+			<Where TerrainType="TERRAIN_COAST" />
+			<Set Yield="0" />
+		</Update>
+	</Terrain_Yields>
+</GameData>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/16/2015 6:35:38 PM -->
+<GameData>
+	<Policy_BuildingClassCultureChanges>
+		<Update>
+			<Set BuildingClassType ="BUILDINGCLASS_ELDER_HUT"/>
+			<Where PolicyType ="POLICY_TRADITION"/>
+		</Update>
+	</Policy_BuildingClassCultureChanges>
+	<Worlds>
+		<Set NumCitiesTechCostMod="0" />
+	</Worlds>
+	<Units>
+		<Set Capture="UNITCLASS_SETTLER" />
+		<Where Type="UNIT_SETTLER" />
+	</Units>
+	<Defines>
+		<Update>
+			<Set Value="-1" />
+			<Where Name="BARBARIAN_MAX_XP_VALUE" />
+		</Update>
+		<Update>
+			<Set Value="500"/>
+			<Where Name="CITY_STRENGTH_DEFAULT"/>
+		</Update>
+		<Update>
+			<Set Value="0"/>
+			<Where Name="UNHAPPINESS_PER_CITY"/>
+		</Update>
+		<Update>
+			<Set Value="2"/>
+			<Where Name="UNHAPPINESS_PER_OCCUPIED_POPULATION"/>
+		</Update>
+		<Update>
+			<Set Value="0"/>
+			<Where Name="UNHAPPINESS_PER_CAPTURED_CITY"/>
+		</Update>
+		<Update>
+			<Set Value="0"/>
+			<Where Name="SCIENCE_PER_POPULATION"/>
+		</Update>
+		<Update>
+			<Set Value="-5000"/>
+			<Where Name="START_YEAR"/>
+		</Update>
+		<Update>
+			<Set Value="0"/>
+			<Where Name="ENEMY_HEAL_RATE"/>
+		</Update>
+		<Update>
+			<Set Value="0"/>
+			<Where Name="NEUTRAL_HEAL_RATE"/>
+		</Update>
+		<!--
+		<Update>
+			<Set Value="0" />
+			<Where Name="MINOR_CIV_CONTACT_GOLD_FIRST" />
+		</Update>
+		<Update>
+			<Set Value="0" />
+			<Where Name="MINOR_CIV_CONTACT_GOLD_OTHER" />
+		</Update>
+		<Update>
+			<Set Value="0" />
+			<Where Name="GOLD_FROM_BARBARIAN_CONVERSION" />
+		</Update>
+		<Update>
+			<Set Value="0" />
+			<Where Name="DISBAND_UNIT_REFUND_PERCENT" />
+		</Update
+		-->
+	</Defines>
+</GameData>

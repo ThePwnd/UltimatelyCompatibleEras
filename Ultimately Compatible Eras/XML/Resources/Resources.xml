@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/28/2015 3:47:43 AM -->
+<GameData>
+	<Resources>
+		<Update>
+			<Set TechReveal="TECH_ANIMAL_HORDING" TechCityTrade="TECH_ANIMAL_HORDING" />
+			<Where Type="RESOURCE_HORSE" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_ANIMAL_HORDING" />
+			<Where Type="RESOURCE_SHEEP" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_ANIMAL_HORDING" />
+			<Where Type="RESOURCE_COW" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_ANIMAL_HORDING" />
+			<Where Type="RESOURCE_BISON" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_ANIMAL_HORDING" />
+			<Where Type="RESOURCE_TRUFFLES" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_AGRICULTURE" />
+			<Where Type="RESOURCE_WHEAT" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_AGRICULTURE" />
+			<Where Type="RESOURCE_WINE" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_AGRICULTURE" />
+			<Where Type="RESOURCE_COTTON" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_AGRICULTURE" />
+			<Where Type="RESOURCE_SUGAR" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_AGRICULTURE" />
+			<Where Type="RESOURCE_SALT" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_GATHERING" />
+			<Where Type="RESOURCE_SPICES" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_GATHERING" />
+			<Where Type="RESOURCE_INCENSE" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_GATHERING" />
+			<Where Type="RESOURCE_CITRUS" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_GATHERING" />
+			<Where Type="RESOURCE_BANANA" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_GATHERING" />
+			<Where Type="RESOURCE_COCOA" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_WEAVING" />
+			<Where Type="RESOURCE_SILK" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_WEAVING" />
+			<Where Type="RESOURCE_DYE" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_HUNTING" />
+			<Where Type="RESOURCE_FUR" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_HUNTING" />
+			<Where Type="RESOURCE_IVORY" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_HUNTING" />
+			<Where Type="RESOURCE_DEER" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_STONE_WORKING" />
+			<Where Type="RESOURCE_MARBLE" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_STONE_WORKING" />
+			<Where Type="RESOURCE_STONE" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_MINING" />
+			<Where Type="RESOURCE_GEMS" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_MINING" />
+			<Where Type="RESOURCE_SILVER" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_MINING" />
+			<Where Type="RESOURCE_GOLD" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_MINING" />
+			<Where Type="RESOURCE_COPPER" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_FISHERY" />
+			<Where Type="RESOURCE_PEARLS" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_FISHERY" />
+			<Where Type="RESOURCE_WHALE" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_FISHERY" />
+			<Where Type="RESOURCE_CRAB" />
+		</Update>
+		<Update>
+			<Set TechReveal="TECH_FISHERY" />
+			<Where Type="RESOURCE_FISH" />
+		</Update>
+	</Resources>
+</GameData>

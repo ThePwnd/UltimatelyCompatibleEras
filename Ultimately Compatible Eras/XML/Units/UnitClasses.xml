@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/13/2015 5:23:16 PM -->
+<GameData>
+	<UnitClasses>
+		<!--PREHISTORIC-->
+		<!--UNIT_CLUBMAN-->
+		<Row>
+			<Type>UNITCLASS_CLUBMAN</Type>
+			<DefaultUnit>UNIT_CLUBMAN</DefaultUnit>
+			<Description>TXT_KEY_UNIT_CLUBMAN_DESCRIPTION</Description>
+		</Row>
+
+		<!--UNIT_SHAMAN-->
+		<Row>
+			<Type>UNITCLASS_SHAMAN</Type>
+			<DefaultUnit>UNIT_SHAMAN</DefaultUnit>
+			<Description>TXT_KEY_UNIT_SHAMAN_DESCRIPTION</Description>
+		</Row>
+
+		<!--UNIT_SPEARMAN-->
+		<Row>
+			<Type>UNITCLASS_EARLY_SPEARMAN</Type>
+			<DefaultUnit>UNIT_EARLY_SPEARMAN</DefaultUnit>
+			<Description>TXT_KEY_UNIT_EARLY_SPEARMAN_DESCRIPTION</Description>
+		</Row>
+
+		<!--UNIT_SLINGER-->
+		<Row>
+			<Type>UNITCLASS_SLINGER</Type>
+			<DefaultUnit>UNIT_SLINGER</DefaultUnit>
+			<Description>TXT_KEY_UNIT_SLINGER_DESCRIPTION</Description>
+		</Row>
+
+		<!--UNIT_AXEMAN-->
+		<Row>
+			<Type>UNITCLASS_AXEMAN</Type>
+			<DefaultUnit>UNIT_AXEMAN</DefaultUnit>
+			<Description>TXT_KEY_UNIT_AXEMAN_DESCRIPTION</Description>
+		</Row>
+	</UnitClasses>
+</GameData>

@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/26/2015 5:12:19 AM -->
+<GameData>
+	<Language_en_US>
+		
+		<!--*************************************************************-->
+		<!--************************** UPDATES **************************-->
+		<!--*************************************************************-->
+
+		<Update>
+			<Where Tag="TXT_KEY_TECH_SAILING_HELP" />
+			<Set Text="Allows you to build military and economic ships, useful for exploration, trading and naval supermacy." />
+		</Update>
+
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ANIMAL_HUSBANDRY_HELP" />
+			<Set Text="Allows your cities to build the [COLOR_POSITIVE_TEXT]Ranch[ENDCOLOR], which provides [ICON_FOOD] Food and [ICON_PRODUCTION] from [ICON_RES_COW] Cattle and [ICON_RES_HORSE] Horses." />
+		</Update>
+
+		<Update>
+			<Where Tag="TXT_KEY_TECH_POTTERY_HELP" />
+			<Set Text="Allows your cities to build the [COLOR_POSITIVE_TEXT]Potter[ENDCOLOR], which provides [ICON_FOOD] Food, [ICON_PRODUCTION] Production and [ICON_CULTURE] Culture." />
+		</Update>
+
+		<Update>
+			<Where Tag="TXT_KEY_TECH_WRITING_HELP" />
+			<Set Text="Allows you to build the [COLOR_POSITIVE_TEXT]Library[ENDCOLOR], helping your empire research new technologies more quickly." />
+		</Update>
+
+		<Update>
+			<Where Tag="TXT_KEY_TECH_OPTICS_HELP" />
+			<Set Text="Allows you to build the [COLOR_POSITIVE_TEXT]Lighthouse[ENDCOLOR] in coastal cities, improving [ICON_FOOD] Food output from water tiles, speeding their growth." />
+		</Update>
+
+		<Update>
+			<Where Tag="TXT_KEY_TECH_MINING_HELP" />
+			<Set Text="Allows Workers to construct [COLOR_POSITIVE_TEXT]Mines[ENDCOLOR] to increase the [ICON_PRODUCTION] Production of map tiles, and [COLOR_POSITIVE_TEXT]Chop Forests[ENDCOLOR], allowing the construction of other improvements. Also reveals several resources." />
+		</Update>
+
+		<Update>
+			<Where Tag="TXT_KEY_TECH_AGRICULTURE_HELP" />
+			<Set Text="Allows Workers to construct [COLOR_POSITIVE_TEXT]Farms[ENDCOLOR], vital for increasing the [ICON_FOOD] Food output of tiles. Also reveals several resources." />
+		</Update>
+
+		<Update>
+			<Where Tag="TXT_KEY_TECH_ARCHERY_HELP" />
+			<Set Text="Allows you to build the [COLOR_POSITIVE_TEXT]Archer[ENDCOLOR], a stronger ranged unit than the Slinger." />
+		</Update>
+		
+		<!--*************************************************************-->
+		<!--************************ PREHISTORIC ************************-->
+		<!--*************************************************************-->
+		
+		<!-- TECH_SOCIAL_STRUCTURE -->
+		<Row Tag="TXT_KEY_TECH_SOCIAL_STRUCTURE_TITLE">
+			<Text>Social Structure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SOCIAL_STRUCTURE_DESC">
+			<Text>Social structure refers to the pattern of social relationships in a society. Such structure regulates the interactions among members of the society, providing guidelines within the cultural norms for achieving the goals defined by cultural values.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SOCIAL_STRUCTURE_HELP">
+			<Text>Unlocks the [COLOR_POSITIVE_TEXT]Elder Hut[ENDCOLOR] and the ability to turn 25% of your [ICON_PRODUCTION] Production to [ICON_RESEARCH] Science.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SOCIAL_STRUCTURE_QUOTE">
+			<Text>"Society does not consist of individuals, but expresses the sum of interrelations, the relations within which these individuals stand." [NEWLINE] - Karl Marx</Text>
+		</Row>
+		
+		<!-- TECH_SCOUTING -->
+		<Row Tag="TXT_KEY_TECH_SCOUTING_TITLE">
+			<Text>Scouting</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SCOUTING_DESC">
+			<Text>The idea of scouting is to make you aware of your surrounding area, locating specific points of interest and busting the fog of war. Scouts and explorers have found many ruins and resources over the years and are important for any starting civilization to get their bearings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SCOUTING_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Lookout[ENDCOLOR] and the [COLOR_POSITIVE_TEXT]Scout[ENDCOLOR], allowing you to better defend your lands as well as explore new ones.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SCOUTING_QUOTE">
+			<Text>"A Scout is never taken by surprise, he knows exactly what to do when anything unexpected happens." [NEWLINE] - Robert Baden-Powell</Text>
+		</Row>
+
+		<!-- TECH_BASIC_TOOLS -->
+		<Row Tag="TXT_KEY_TECH_BASIC_TOOLS_TITLE">
+			<Text>Basic Tools</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BASIC_TOOLS_DESC">
+			<Text>
+				A tool is any physical item that can be used to achieve a goal, especially if the item is not consumed in the process. Tool use by humans dates back millions of years, and other animals are also known to employ simple tools. Tools that are used in particular fields or activities may have different designations such as "instrument", "utensil", "implement", "machine", "device," or "apparatus". The set of tools needed to achieve a goal is "equipment". The knowledge of constructing, obtaining and using tools is technology. [NEWLINE][NEWLINE]Anthropologists believe that the use of tools was an important step in the evolution of mankind. Because tools are used extensively by both humans and wild chimpanzees, it is widely assumed that the first routine use of tools took place prior to the divergence between the two species. These early tools, however, were likely made of perishable materials such as sticks, or consisted of unmodified stones that cannot be distinguished from other stones as tools.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BASIC_TOOLS_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Tools Craftsman[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Tool Storage[ENDCOLOR] which both improve [ICON_PRODUCTION] Production, [COLOR_POSITIVE_TEXT]Clubman[ENDCOLOR] an early melee unit and the [COLOR_POSITIVE_TEXT]Worker[ENDCOLOR] used to improve tiles around the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BASIC_TOOLS_QUOTE">
+			<Text>"We become what we behold. We shape our tools and then our tools shape us." [NEWLINE] - Marshall McLuhan</Text>
+		</Row>
+
+		<!-- TECH_IDOLIZATION -->
+		<Row Tag="TXT_KEY_TECH_IDOLIZATION_TITLE">
+			<Text>Idolization</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_IDOLIZATION_DESC">
+			<Text>An idol is an image or other material object representing a deity to which religious worship is addressed or any person or thing regarded with admiration, adoration, or devotion. An idol may refer to: [NEWLINE]Cult image, a neutral term for a man-made object that is worshipped or venerated for the deity, spirit or demon that it embodies or represents [NEWLINE]Idolatry, a pejorative term used especially in Abrahamic religions for the worship of idols [NEWLINE]Murti, a point of focus for devotion or meditation in Hindu and Buddhist religion (not always man-made).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_IDOLIZATION_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Monumental Stone[ENDCOLOR] which provides [ICON_CULTURE] Culture as well as the [COLOR_POSITIVE_TEXT]Carnac Stones[ENDCOLOR] wonder which boosts [ICON_CULTURE] Culture and Great Scientist points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_IDOLIZATION_QUOTE">
+			<Text>"Everyone should be respected as an individual, but no one idolized" [NEWLINE] - Albert Einstein</Text>
+		</Row>
+
+		<!-- TECH_FISHERY -->
+		<Row Tag="TXT_KEY_TECH_FISHERY_TITLE">
+			<Text>Fishery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_FISHERY_DESC">
+			<Text>Fishing is the activity of trying to catch fish. Fish are normally caught in the wild. Techniques for catching fish include hand gathering, spearing, netting, angling and trapping. Fishing may include catching other aquatic animals, such as molluscs, cephalopods, crustaceans, and echinoderms. The term is not normally applied to catching farmed fish, or to aquatic mammals, and marine mammals, such as whales, where the term whaling is more appropriate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_FISHERY_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Dock[ENDCOLOR] which provides extra [ICON_FOOD] Food for coastal cities and also reveals all sea based resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_FISHERY_QUOTE">
+			<Text>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime." [NEWLINE] - Chinese Proverb</Text>
+		</Row>
+		
+		<!-- TECH_GATHERING -->
+		<Row Tag="TXT_KEY_TECH_GATHERING_TITLE">
+			<Text>Gathering</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GATHERING_DESC">
+			<Text>Gathering is the practice of cultivating and harvesting wild plants and resources as a step toward domestication.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GATHERING_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Gatherer's Hut[ENDCOLOR] which boosts [ICON_FOOD] Food for nearby tiles and the [COLOR_POSITIVE_TEXT]Herbalist[ENDCOLOR] which provides extra local [ICON_HAPPINESS_1] happiness. It also reveals several resources and allows the construction of a [COLOR_POSITIVE_TEXT]Gathering Ground[ENDCOLOR] improvement on those resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GATHERING_QUOTE">
+			<Text>"On a hard jungle journey nothing is so important as having a team you can trust." [NEWLINE] - Tahir Shah</Text>
+		</Row>
+
+		<!-- TECH_HUNTING -->
+		<Row Tag="TXT_KEY_TECH_HUNTING_TITLE">
+			<Text>Hunting</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HUNTING_DESC">
+			<Text>
+				Hunting is the practice of killing or trapping any animal, or pursuing or tracking it with the intent of doing so. Hunting wildlife or feral animals is most commonly done by humans for food, recreation, to remove predators that are dangerous to humans or domestic animals, or for trade. Lawful hunting is distinguished from poaching, which is the illegal killing, trapping or capture of the hunted species. The species that are hunted are referred to as game or prey and are usually mammals and birds. [NEWLINE]Hunting can also be a means of pest control. Hunting advocates state that hunting can be a necessary component of modern wildlife management, for example, to help maintain a population of healthy animals within an environment's ecological carrying capacity when natural checks such as predators are absent or very rare. However, hunting has also heavily contributed to the endangerment, extirpation and extinction of many animals. [NEWLINE]The pursuit, capture and release, or capture for food of fish is called fishing, which is not commonly categorised as a form of hunting. It is also not considered hunting to pursue animals without intent to kill them, as in wildlife photography, birdwatching, or scientific research activities which involve tranquilizing and/or tagging of animals or birds. The practice of foraging or gathering materials from plants and mushrooms is also considered separate from hunting.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HUNTING_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Hunters Hut[ENDCOLOR] which boosts [ICON_FOOD] Food for nearby tiles. It also reveals several resources and allows the construction of a [COLOR_POSITIVE_TEXT]Hunting Ground[ENDCOLOR] improvement on those resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HUNTING_QUOTE">
+			<Text>"If we act like prey, they will act like predators" [NEWLINE] - Alyxandra Harvey</Text>
+		</Row>
+
+		<!-- TECH_FIRE_CONTROLLING -->
+		<Row Tag="TXT_KEY_TECH_FIRE_CONTROLLING_TITLE">
+			<Text>Fire Controlling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_FIRE_CONTROLLING_DESC">
+			<Text>Fire has been used by humans in rituals, in agriculture for clearing land, for cooking, generating heat and light, for signaling, propulsion purposes, smelting, forging, incineration of waste, cremation, and as a weapon or mode of destruction.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_FIRE_CONTROLLING_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Bonfire[ENDCOLOR] which increases [ICON_CULTURE] Culture and local [ICON_HAPPINESS_1] Happiness. It also allows you to build the [COLOR_POSITIVE_TEXT]Firepit[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Smokehouse[ENDCOLOR] which increase [ICON_FOOD] Food.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_FIRE_CONTROLLING_QUOTE">
+			<Text>"Fire! We have fire!" [NEWLINE] - Anyone that has ever made fire their first time</Text>
+		</Row>
+
+		<!-- TECH_RITUALS -->
+		<Row Tag="TXT_KEY_TECH_RITUALS_TITLE">
+			<Text>Rituals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_RITUALS_DESC">
+			<Text>A ritual "is a sequence of activities involving gestures, words, and objects, performed in a sequestered place, and performed according to set sequence. "Rituals may be prescribed by the traditions of a community, including a religious community. Rituals are characterized by formalism, traditionalism, invariance, rule-governance, sacral symbolism, and performance. [NEWLINE]Rituals are a feature of all known human societies. They include not only the worship rites and sacraments of organized religions and cults, but also rites of passage, atonement and purification rites, oaths of allegiance, dedication ceremonies, coronations and presidential inaugurations, marriages and funerals, school "rush" traditions and graduations, club meetings, sporting events, Halloween parties, veterans parades, Christmas shopping and more. Many activities that are ostensibly performed for concrete purposes, such as jury trials, execution of criminals, and scientific symposia, are loaded with purely symbolic actions prescribed by regulations or tradition, and thus partly ritualistic in nature. Even common actions like hand-shaking and saying hello may be termed rituals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_RITUALS_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Stonehenge[ENDCOLOR] wonder which greatly boosts faith as well as the [COLOR_POSITIVE_TEXT]Totem[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Sacred Grounds[ENDCOLOR] which provide a small amount of faith. It also allows you to build the [COLOR_POSITIVE_TEXT]Shaman[ENDCOLOR] healer unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_RITUALS_QUOTE">
+			<Text>"Ritual is important to us as human beings. It ties us to our traditions and our histories." [NEWLINE] - Miller Williams</Text>
+		</Row>
+
+		<!-- TECH_LEADERSHIP -->
+		<Row Tag="TXT_KEY_TECH_LEADERSHIP_TITLE">
+			<Text>Leadership</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_LEADERSHIP_DESC">
+			<Text>Leadership is both a research area and a practical skill encompassing the ability of an individual or organization to "lead" or guide other individuals, teams, or entire organizations. The literature debates various viewpoints: contrasting Eastern and Western approaches to leadership, and also (within the West) US vs. European approaches. US academic environments define leadership as "a process of social influence in which a person can enlist the aid and support of others in the accomplishment of a common task". Leadership seen from a European and non-academic perspective encompasses a view of a leader who can be moved not only by communitarian goals but also by the search for personal power.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_LEADERSHIP_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Chief's Hut[ENDCOLOR] a powerful building that boosts [ICON_RESEARCH] Science, [ICON_PRODUCTION] Production and [ICON_CULTURE] Culture. Also allows you to build [COLOR_POSITIVE_TEXT]Settlers[ENDCOLOR] to begin expanding your empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_LEADERSHIP_QUOTE">
+			<Text>"I am not afraid of an army of lions led by a sheep, I am afraid of an army of sheep led by a lion." [NEWLINE] - Alexander the Great</Text>
+		</Row>
+
+		<!-- TECH_WOOD_WORKING -->
+		<Row Tag="TXT_KEY_TECH_WOOD_WORKING_TITLE">
+			<Text>Wood Working</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WOOD_WORKING_DESC">
+			<Text>Along with stone, clay and animal parts, wood was one of the first materials worked by early humans. Microwear analysis of the Mousterian stone tools used by the Neanderthals show that many were used to work wood. The development of civilization was closely tied to the development of increasingly greater degrees of skill in working these materials. [NEWLINE]Among early finds of wooden tools are the worked sticks from Kalambo Falls, Clacton-on-Sea and Lehringen. The spears from Schöningen (Germany) provide some of the first examples of wooden hunting gear. Flint tools were used for carving. Since Neolithic times, carved wooden vessels are known, for example, from the Linear Pottery culture wells at Kückhofen and Eythra. [NEWLINE]Examples of Bronze Age wood-carving include tree trunks worked into coffins from northern Germany and Denmark and wooden folding-chairs. The site of Fellbach-Schmieden in Germany has provided fine examples of wooden animal statues from the Iron Age Wooden idols from the La Tène period are known from a sanctuary at the source of the Seine in France.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WOOD_WORKING_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Timber Mill[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Wood Works[ENDCOLOR] which both boost [ICON_PRODUCTION] Production. Also allows you to build the [COLOR_POSITIVE_TEXT]Early Spearman[ENDCOLOR] an early defensive melee unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WOOD_WORKING_QUOTE">
+			<Text>"By a carpenter mankind was made and only by that carpenter can mankind be remade" [NEWLINE] - Desiderius Erasmus</Text>
+		</Row>
+
+		<!-- TECH_RAFTING -->
+		<Row Tag="TXT_KEY_TECH_RAFTING_TITLE">
+			<Text>Rafting</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_RAFTING_DESC">
+			<Text>
+				Unlike log driving, which was a dangerous task of floating separate logs, floaters or raftsmen could enjoy relative comfort of navigation, with cabins built on rafts, steering by means of oars and possibility to make stops. On the other hand, rafting requires wider waterflows. Timber rafts were also used as a means of transportation of people and goods, both raw materials (ore, fur, game) and man-made. [NEWLINE]Theophrastus (Hist. Plant. 5.8.2) records how the Romans imported Corsican timber by way of a huge raft propelled by as many as fifty masts and sails. This practice used to be common in many parts of the world, especially North America and on all main rivers of Germany. Timber rafting allowed for connecting large continental forests, as in south western Germany, via Main, Neckar, Danube and Rhine with the coastal cities and states, early modern forestry and remote trading were closely connected. Large pines in the black forest were called „Holländer“, as they were traded to the Netherlands. Large timber rafts on the Rhine were 200 to 400m in length, 40m wide and consisted of several thousand logs. The crew consisted of 400 to 500 men, including shelter, bakeries, ovens and livestock stables. Timber rafting infrastructure allowed for large interconnected networks all over continental Europe. The advent of the railroad, steam boat vessels and improvements in trucking and road networks gradually reduced the use of timber rafts. It is still of importance in Finland.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_RAFTING_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Raft Assembler[ENDCOLOR] providing [ICON_PRODUCTION] Production in Coastal cities, as well as [COLOR_POSITIVE_TEXT]Work Boats[ENDCOLOR] that can improve coastal tiles. It also allows units to embark.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_RAFTING_QUOTE">
+			<Text>"Together we can face any challenges as deep as the ocean and as high as the sky." [NEWLINE] - Sonia Ghandi</Text>
+		</Row>
+
+		<!-- TECH_HIDE_TENDING -->
+		<Row Tag="TXT_KEY_TECH_HIDE_TENDING_TITLE">
+			<Text>Hide Tending</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HIDE_TENDING_DESC">
+			<Text>Archaeologists believe that animal hides provided an important source of clothing and shelter for all prehistoric humans and their use continued among non-agricultural societies into modern times. The Inuit, for example, used animal hides for summer tents, waterproof clothes, and kayaks. Various American Indian tribes used hides in the construction of tepees and wigwams, moccasins, and buckskins. They were sometimes used as window coverings. Until the invention of plastic drum heads in the 1950s, animal hides or metal was used.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HIDE_TENDING_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Hide Tender[ENDCOLOR] which provides local [ICON_HAPPINESS_1] Happiness to the city as well as big [ICON_PRODUCTION] Production bonuses to [ICON_RES_COW] Cattle, [ICON_RES_DEER] Deer and [ICON_RES_BISON] Bison.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HIDE_TENDING_QUOTE">
+			<Text>"In a meat-eating world, wearing leather for shoes and even clothes, the discussion of fur is childish" [NEWLINE] - Karl Lagerfeld</Text>
+		</Row>
+
+		<!-- TECH_ANIMAL_HORDING -->
+		<Row Tag="TXT_KEY_TECH_ANIMAL_HORDING_TITLE">
+			<Text>Animal Hording</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ANIMAL_HORDING_DESC">
+			<Text>Animal husbandry has been practiced for thousands of years since the first domestication of animals. Selective breeding for desired traits was first established as a scientific practice by Robert Bakewell during the British Agricultural Revolution in the 18th century. One of his most important breeding programs was with sheep. Using native stock, he was able to quickly select for large, yet fine-boned sheep, with long, lustrous wool. The Lincoln Longwool was improved by Bakewell and in turn the Lincoln was used to develop the subsequent breed, named the New (or Dishley) Leicester. It was hornless and had a square, meaty body with straight top lines. These sheep were exported widely and have contributed to numerous modern breeds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ANIMAL_HORDING_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Animal Pen[ENDCOLOR] which provides bonus [ICON_FOOD] Food from [ICON_RES_COW] Cattle and [ICON_RES_SHEEP] Sheep as well as revealing several resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ANIMAL_HORDING_QUOTE">
+			<Text>"The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which." [NEWLINE] - George Orwell</Text>
+		</Row>
+
+		<!-- TECH_PRESERVATION -->
+		<Row Tag="TXT_KEY_TECH_PRESERVATION_TITLE">
+			<Text>Preservation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_PRESERVATION_DESC">
+			<Text>Food preservation involves preventing the growth of bacteria, fungi (such as yeasts), or other micro-organisms (although some methods work by introducing benign bacteria or fungi to the food), as well as slowing the oxidation of fats that cause rancidity. Food preservation may also include processes that inhibit visual deterioration, such as the enzymatic browning reaction in apples after they are cut during food preparation. [NEWLINE]Many processes designed to preserve food will involve a number of food preservation methods. Preserving fruit by turning it into jam, for example, involves boiling (to reduce the fruit’s moisture content and to kill bacteria, etc.), sugaring (to prevent their re-growth) and sealing within an airtight jar (to prevent recontamination). Some traditional methods of preserving food have been shown to have a lower energy input and carbon footprint, when compared to modern methods. However, some methods of food preservation are known to create carcinogens, and in 2015, the International Agency for Research on Cancer of the World Health Organization classified processed meat, i.e. meat that has undergone salting, curing, fermenting, and smoking, as "carcinogenic to humans". [NEWLINE]Maintaining or creating nutritional value, texture and flavor is an important aspect of food preservation, although, historically, some methods drastically altered the character of the food being preserved. In many cases these changes have come to be seen as desirable qualities – cheese, yogurt and pickled onions being common examples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_PRESERVATION_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Food Storage[ENDCOLOR] which helps with [ICON_FOOD] Growth of a city. Also allows you to build the [COLOR_POSITIVE_TEXT]Storage Yard[ENDCOLOR] which increases building construction speed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_PRESERVATION_QUOTE">
+			<Text>"Every man has the right to risk his own life for the preservation of it" [NEWLINE] - Jean-Jacques Rousseau</Text>
+		</Row>
+		
+		<!-- TECH_PROJECTILES -->
+		<Row Tag="TXT_KEY_TECH_PROJECTILES_TITLE">
+			<Text>Projectiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_PROJECTILES_DESC">
+			<Text>A projectile is any object thrown into space (empty or not) by the exertion of a force. Although any object in motion through space (for example a thrown baseball) may be called a projectile, the term more commonly refers to a ranged weapon. Mathematical equations of motion are used to analyze projectile trajectory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_PROJECTILES_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Slinger[ENDCOLOR] an early ranged unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_PROJECTILES_QUOTE">
+			<Text>"The fascination of shooting as a sport depends almost wholly on whether you are at the right or wrong end of the gun." [NEWLINE] - P.G. Wodehouse</Text>
+		</Row>
+		
+		<!-- TECH_WARFARE -->
+		<Row Tag="TXT_KEY_TECH_WARFARE_TITLE">
+			<Text>Warfare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WARFARE_DESC">
+			<Text>War is a state of armed conflict between societies. It is generally characterized by extreme aggression, destruction, and mortality, using regular or irregular military forces. An absence of war is usually called "peace". Warfare refers to the common activities and characteristics of types of war, or of wars in general. Total war is warfare that is not restricted to purely legitimate military targets, and can result in massive civilian or other non-combatant casualties. [NEWLINE]While some scholars see war as a universal and ancestral aspect of human nature, others argue it is a result of specific socio-cultural or ecological circumstances. [NEWLINE]The deadliest war in history, in terms of the cumulative number of deaths since its start, is the Second World War, from 1939 to 1945, with 60–85 million deaths, followed by the Mongol conquests which was greater than 41 million. Proportionally speaking, the most destructive war in modern history is the War of the Triple Alliance, which took the lives of over 60% of Paraguay's population, according to Steven Pinker. In 2013 war resulted in 31,000 deaths, down from 72,000 deaths in 1990. In 2003, Richard Smalley identified war as the sixth (of ten) biggest problem facing humanity for the next fifty years. War usually results in significant deterioration of infrastructure and the ecosystem, a decrease in social spending, famine, large-scale emigration from the war zone, and often the mistreatment of prisoners of war or civilians. Another byproduct of some wars is the prevalence of propaganda by some or all parties in the conflict, and increased revenues by weapons manufacturers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WARFARE_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Training Grounds[ENDCOLOR] which increases Unit construction speed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WARFARE_QUOTE">
+			<Text>"The supreme art of war is to subdue the enemy without fighting." [NEWLINE] - Sun Tzu</Text>
+		</Row>
+
+		<!-- TECH_STONE_WORKING -->
+		<Row Tag="TXT_KEY_TECH_STONE_WORKING_TITLE">
+			<Text>Stone Working</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_STONE_WORKING_DESC">
+			<Text>The craft of stonemasonry (or stonecraft) has existed since humanity could use and make tools - creating buildings, structures, and sculpture using stone from the earth. These materials have been used to construct many of the long-lasting, ancient monuments, artifacts, cathedrals, and cities in a wide variety of cultures. Famous works of stonemasonry include the Taj Mahal, Cusco's Incan Wall, Easter Island's statues, the Egyptian Pyramids, Angkor Wat, Borobudur, Tihuanaco, Tenochtitlan, Persepolis, the Parthenon, Stonehenge, and Chartres Cathedral.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_STONE_WORKING_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Stone Works[ENDCOLOR] a strong [ICON_PRODUCTION] Production building and the [COLOR_POSITIVE_TEXT]Axeman[ENDCOLOR] a strong early melee unit. Also reveals [ICON_RES_STONE] Stone and [ICON_RES_MARBLE] Marble.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_STONE_WORKING_QUOTE">
+			<Text>"Is a mountain only a huge stone? Is a planet an enormous mountain?" [NEWLINE] - Stanislaw Lem</Text>
+		</Row>
+
+		<!--*************************************************************-->
+		<!--************************** ANCIENT **************************-->
+		<!--*************************************************************-->
+		
+		<!-- TECH_TRADING -->
+		<Row Tag="TXT_KEY_TECH_TRADING_TITLE">
+			<Text>Trading</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_TRADING_DESC">
+			<Text>Trade, or commerce, involves the transfer of the ownership of goods or services, from one person or entity to another, in exchange for money, goods or services. A network that allows trade is called a market. [NEWLINE]The original form of trade, barter, saw the direct exchange of goods and services for other goods and services. Barter is trading things without the use of money. Later one side of the barter started to involve precious metals, which gained symbolic as well as practical importance. Modern traders generally negotiate through a medium of exchange, such as money. As a result, buying can be separated from selling, or earning. The invention of money (and later credit, paper money and non-physical money) greatly simplified and promoted trade. Trade between two traders is called bilateral trade, while trade between more than two traders is called multilateral trade. [NEWLINE]Trade exists due to the specialization and division of labor, in which most people concentrate on a small aspect of production, trading for other products. Trade exists between regions because different regions may have a comparative advantage (perceived or real) in the production of some trade-able commodity, or because different regions' size may encourage mass production. As such, trade at market prices between locations can benefit both locations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_TRADING_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Caravan[ENDCOLOR] to set up trade routes as well as the [COLOR_POSITIVE_TEXT]Caravansary[ENDCOLOR] which boosts land trade routes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_TRADING_QUOTE">
+			<Text>"Everything is worth what its purchaser will pay for it." [NEWLINE] - Publilius Syrus</Text>
+		</Row>
+
+		<!-- TECH_BUILDING -->
+		<Row Tag="TXT_KEY_TECH_BUILDING_TITLE">
+			<Text>Building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BUILDING_DESC">
+			<Text>Construction is the process of constructing a building or infrastructure. Construction differs from manufacturing in that manufacturing typically involves mass production of similar items without a designated purchaser, while construction typically takes place on location for a known client. Construction as an industry comprises six to nine percent of the gross domestic product of developed countries. Construction starts with planning, design, and financing; and continues until the project is built and ready for use. [NEWLINE]Large-scale construction requires collaboration across multiple disciplines. An architect normally manages the job, and a construction manager, design engineer, construction engineer or project manager supervises it. For the successful execution of a project, effective planning is essential. Those involved with the design and execution of the infrastructure in question must consider zoning requirements, the environmental impact of the job, the successful scheduling, budgeting, construction-site safety, availability and transportation of building materials, logistics, inconvenience to the public caused by construction delays and bidding, etc. The largest construction projects are referred to as megaprojects.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BUILDING_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Architect's Post[ENDCOLOR] a powerful National Wonder boosting [ICON_PRODUCTION] Production, [ICON_CULTURE] Culture and Defense. Also allows [COLOR_POSITIVE_TEXT]Clearing Marshes[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BUILDING_QUOTE">
+			<Text>"Rome wasn't built in a day. Or so the peasant says." [NEWLINE] - Popular Proverb</Text>
+		</Row>
+
+		<!-- TECH_WEAVING -->
+		<Row Tag="TXT_KEY_TECH_WEAVING_TITLE">
+			<Text>Weaving</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WEAVING_DESC">
+			<Text>Weaving is a method of textile production in which two distinct sets of yarns or threads are interlaced at right angles to form a fabric or cloth. Similar methods are knitting, felting, and braiding or plaiting. The longitudinal threads are called the warp and the lateral threads are the weft or filling. (Weft or woof is an old English word meaning "that which is woven") The method in which these threads are inter woven affects the characteristics of the cloth. [NEWLINE]Cloth is usually woven on a loom, a device that holds the warp threads in place while filling threads are woven through them. A fabric band which meets this definition of cloth (warp threads with a weft thread winding between) can also be made using other methods, including tablet weaving, back-strap, or other techniques without looms. [NEWLINE]The way the warp and filling threads interlace with each other is called the weave. The majority of woven products are created with one of three basic weaves: plain weave, satin weave, or twill. Woven cloth can be plain (in one colour or a simple pattern), or can be woven in decorative or artistic design.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WEAVING_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Weavery[ENDCOLOR] which boosts [ICON_CULTURE] Culture and [ICON_PRODUCTION] Production. Also reveals [ICON_RES_DYE] Dyes and [ICON_RES_SILK] Silk.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WEAVING_QUOTE">
+			<Text>"Clothes make the man. Naked people have little or no influence on society." [NEWLINE] - Mark Twain</Text>
+		</Row>
+
+		<!-- TECH_PROTECTIVE_BUILDING -->
+		<Row Tag="TXT_KEY_TECH_PROTECTIVE_BUILDING_TITLE">
+			<Text>Protective Building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_PROTECTIVE_BUILDING_DESC">
+			<Text>A defensive wall is a fortification used to protect a city, town or other settlement from potential aggressors. In ancient to modern times, they were used to enclose settlements. Generally, these are referred to as city walls or town walls, although there were also walls, such as the Great Wall of China, Walls of Benin, Hadrian's Wall, and the metaphorical Atlantic Wall, which extended far beyond the borders of a city and were used to enclose regions or mark territorial boundaries. Beyond their defensive utility, many walls also had important symbolic functions – representing the status and independence of the communities they embraced. [NEWLINE]Existing ancient walls are almost always masonry structures, although brick and timber-built variants are also known. Depending on the topography of the area surrounding the city or the settlement the wall is intended to protect, elements of the terrain (e.g. rivers or coastlines) may be incorporated in order to make the wall more effective. [NEWLINE]Walls may only be crossed by entering the appropriate city gate and are often supplemented with towers. The practice of building these massive walls, though having its origins in prehistory, was refined during the rise of city-states, and energetic wall-building continued into the medieval period and beyond in certain parts of Europe. [NEWLINE]Simpler defensive walls of earth or stone, thrown up around hillforts, ringworks, early castles and the like, tend to be referred to as ramparts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_PROTECTIVE_BUILDING_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Palisade Wall[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Tower[ENDCOLOR] which help defend your city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_PROTECTIVE_BUILDING_QUOTE">
+			<Text>"The ache for home lives in all of us. The safe place where we can go as we are and not be questioned." [NEWLINE] - Maya Angelou</Text>
+		</Row>
+
+		<!-- TECH_DECORATIVE_BUILDING -->
+		<Row Tag="TXT_KEY_TECH_DECORATIVE_BUILDING_TITLE">
+			<Text>Decorative Building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_DECORATIVE_BUILDING_DESC">
+			<Text>Decorative Construction is the art and science of enhancing the interiors and exteriors of a space or building, to achieve a healthier and more aesthetically pleasing environment for the end user. A designer is someone who plans, researches, coordinates, and manages such projects. It is a multifaceted profession that includes conceptual development, space planning, site inspections, programming, research, communicating with the stakeholders of a project, construction management, and execution of the design. [NEWLINE]Decorative Construction is the process of shaping the experience of interior and exterior space, through the manipulation of spatial volume as well as surface treatment for the betterment of human functionality.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_DECORATIVE_BUILDING_HELP">
+			<Text>Allows you to build your Grand [COLOR_POSITIVE_TEXT]Palace[ENDCOLOR] which provides several boosts and designates the city it is built in as the Capital. Also allows you to construct the [COLOR_POSITIVE_TEXT]Monument[ENDCOLOR] which boosts [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_DECORATIVE_BUILDING_QUOTE">
+			<Text>"My buildings will be my legacy. They will speak for me long after I am gone." [NEWLINE] - Julia Morgan</Text>
+		</Row>
+
+		<!-- TECH_CARTOGRAPHY -->
+		<Row Tag="TXT_KEY_TECH_CARTOGRAPHY_TITLE">
+			<Text>Cartography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CARTOGRAPHY_DESC">
+			<Text>Cartography (from Greek χάρτης khartēs, "papyrus, sheet of paper, map"; and γράφειν graphein, "write") is the study and practice of making maps. Combining science, aesthetics, and technique, cartography builds on the premise that reality can be modeled in ways that communicate spatial information effectively.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CARTOGRAPHY_HELP">
+			<Text>Allows you to build the powerful [COLOR_POSITIVE_TEXT]Navigator's Guild[ENDCOLOR] National Wonder which increases naval movement speed and sight as well as providing [ICON_RESEARCH] Science and [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CARTOGRAPHY_QUOTE">
+			<Text>"Maps codify the miracle of existence." [NEWLINE] - Nicholas Crane</Text>
+		</Row>
+
+		<!-- TECH_BELIEFS -->
+		<Row Tag="TXT_KEY_TECH_BELIEFS_TITLE">
+			<Text>Beliefs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BELIEFS_DESC">
+			<Text>Belief is the state of mind in which a person thinks something to be the case, with or without there being empirical evidence to prove that something is the case with factual certainty. Another way of defining belief sees it as a mental representation of an attitude positively oriented towards the likelihood of something being true. In the context of Ancient Greek thought, two related concepts were identified with regards to the concept of belief: pistis and doxa. Simplified, we may say that pistis refers to "trust" and "confidence", while doxa refers to "opinion" and "acceptance". The English word "orthodoxy" derives from doxa. Jonathan Leicester suggests that belief has the purpose of guiding action rather than indicating truth. [NEWLINE]In epistemology, philosophers use the term "belief" to refer to personal attitudes associated with true or false ideas and concepts. However, "belief" does not require active introspection and circumspection. For example, we never ponder whether or not the sun will rise. We simply assume the sun will rise. Since "belief" is an important aspect of mundane life, according to Eric Schwitzgebel in the Stanford Encyclopedia of Philosophy, a related question asks: "how a physical organism can have beliefs?"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BELIEFS_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Shrine[ENDCOLOR] which provides extra Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BELIEFS_QUOTE">
+			<Text>"I had therefore to remove knowledge in order to make room for belief." [NEWLINE] - Immanuel Kant</Text>
+		</Row>
+
+		<!-- TECH_ARITHMETIC -->
+		<Row Tag="TXT_KEY_TECH_ARITHMETIC_TITLE">
+			<Text>Arithmetic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ARITHMETIC_DESC">
+			<Text>Arithmetic or arithmetics (from the Greek ἀριθμός arithmos, "number") is the oldest and most elementary branch of mathematics. It consists of the study of numbers, especially the properties of the traditional operations between them—addition, subtraction, multiplication and division. Arithmetic is an elementary part of number theory, and number theory is considered to be one of the top-level divisions of modern mathematics, along with algebra, geometry, and analysis. The terms arithmetic and higher arithmetic were used until the beginning of the 20th century as synonyms for number theory and are sometimes still used to refer to a wider part of number theory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ARITHMETIC_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]School[ENDCOLOR] an early science building that produces [ICON_RESEARCH] Science per [ICON_CITIZEN] Population.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ARITHMETIC_QUOTE">
+			<Text>"If in other sciences we should arrive at certainty without doubt and truth without error, it behooves us to place the foundations of knowledge in mathematics." [NEWLINE] - Roger Bacon</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

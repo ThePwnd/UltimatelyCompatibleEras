@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/29/2015 12:50:53 AM -->
+<GameData>
+	<Unit_FreePromotions>
+		<!-- PREHISTORIC -->
+		<!-- UNIT_SHAMAN-->
+		<Row>
+			<UnitType>UNIT_SHAMAN</UnitType>
+			<PromotionType>PROMOTION_MEDIC</PromotionType>
+		</Row>
+		
+		<!--UNIT_EARL_SPEARMAN-->
+		<Row>
+			<UnitType>UNIT_EARLY_SPEARMAN</UnitType>
+			<PromotionType>PROMOTION_ANTI_MOUNTED_I</PromotionType>
+		</Row>
+
+		<!--UNIT_SLINGER-->
+		<Row>
+			<UnitType>UNIT_SLINGER</UnitType>
+			<PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+</GameData>

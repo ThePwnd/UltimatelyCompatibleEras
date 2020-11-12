@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/12/2019 3:42:37 PM -->
+<GameData>
+  <Eras>
+	<Row>
+	  <Type>ERA_PREHISTORIC</Type>
+	  <Description>TXT_KEY_ERA_PREHISTORIC</Description>
+	  <ShortDescription>TXT_KEY_ERA_PREHISTORIC_SHORT</ShortDescription>
+	  <Abbreviation>ERA_PREHIS_ABBREV</Abbreviation>
+	  <Strategy>TXT_KEY_ERA_ANCIENT_STRATEGY</Strategy>
+	  <ArtPrefix>ANCIENT </ArtPrefix>
+	  <NoGoodies>false</NoGoodies>
+	  <NoBarbUnits>false</NoBarbUnits>
+	  <NoReligion>false</NoReligion>
+	  <ResearchAgreementCost>100</ResearchAgreementCost>
+	  <EmbarkedUnitDefense>3</EmbarkedUnitDefense>
+	  <StartingUnitMultiplier>1</StartingUnitMultiplier>
+	  <StartingDefenseUnits>0</StartingDefenseUnits>
+	  <StartingWorkerUnits>1</StartingWorkerUnits>
+	  <StartingExploreUnits>0</StartingExploreUnits>
+	  <StartingGold>0</StartingGold>
+	  <StartingCulture>0</StartingCulture>
+	  <FreePopulation>0</FreePopulation>
+	  <LaterEraBuildingConstructMod>0</LaterEraBuildingConstructMod>
+	  <StartPercent>0</StartPercent>
+	  <BuildingMaintenancePercent>100</BuildingMaintenancePercent>
+	  <GrowthPercent>200</GrowthPercent>
+	  <TrainPercent>100</TrainPercent>
+	  <ConstructPercent>100</ConstructPercent>
+	  <CreatePercent>100</CreatePercent>
+	  <ResearchPercent>100</ResearchPercent>
+	  <BuildPercent>100</BuildPercent>
+	  <ImprovementPercent>100</ImprovementPercent>
+	  <GreatPeoplePercent>100</GreatPeoplePercent>
+	  <CulturePercent>100</CulturePercent>
+	  <TradeRouteFoodBonusTimes100>0</TradeRouteFoodBonusTimes100>
+	  <TradeRouteProductionBonusTimes100>0</TradeRouteProductionBonusTimes100>
+	  <EventChancePerTurn>1</EventChancePerTurn>
+	  <SpiesGrantedForPlayer>0</SpiesGrantedForPlayer>
+	  <SpiesGrantedForEveryone>0</SpiesGrantedForEveryone>
+	  <FaithCostMultiplier>100</FaithCostMultiplier>
+	  <DiploEmphasisReligion>0</DiploEmphasisReligion>
+	  <DiploEmphasisLatePolicies>0</DiploEmphasisLatePolicies>
+	  <LeaguePercent>300</LeaguePercent>
+	  <SoundtrackSpace>0</SoundtrackSpace>
+	  <FirstSoundtrackFirst>false</FirstSoundtrackFirst>
+	  <CityBombardEffectTag>CITY_BOMBARD_EARLY</CityBombardEffectTag>
+	  <AudioUnitVictoryScript>AS2D_VICTORY_EARLY</AudioUnitVictoryScript>
+	  <AudioUnitDefeatScript>AS2D_LOSS_EARLY</AudioUnitDefeatScript>		  
+	</Row>
+	<Update>
+	  <Set StartingDefenseUnits="0" />
+	  <Where Type="ERA_PREHISTORIC" />
+	</Update>
+	<Update>
+	  <Set StartingExploreUnits="0" />
+	  <Where Type="ERA_PREHISTORIC" />
+	</Update>
+  </Eras>
+  <Era_CitySoundscapes>
+	<Row>
+	  <EraType>ERA_PREHISTORIC</EraType>
+	  <CitySizeType>CITYSIZE_SMALL</CitySizeType>
+	  <SoundscapeScript>ASSS_CITY_ANCIENT_SMALL_SELECT_AMB</SoundscapeScript>
+	</Row>
+	<Row>
+	  <EraType>ERA_PREHISTORIC</EraType>
+	  <CitySizeType>CITYSIZE_MEDIUM</CitySizeType>
+	  <SoundscapeScript>ASSS_CITY_ANCIENT_SMALL_SELECT_AMB</SoundscapeScript>
+	</Row>
+	<Row>
+	  <EraType>ERA_PREHISTORIC</EraType>
+	  <CitySizeType>CITYSIZE_LARGE</CitySizeType>
+	  <SoundscapeScript>ASSS_CITY_ANCIENT_LARGE_SELECT_AMB</SoundscapeScript>
+	</Row>
+  </Era_CitySoundscapes>
+  <Era_Soundtracks>
+	<Row>
+	  <EraType>ERA_PREHISTORIC</EraType>
+	  <Soundtrack>AS2D_ANCIENT_SOUNDTRACK_1</Soundtrack>
+	</Row>
+	<Row>
+	  <EraType>ERA_PREHISTORIC</EraType>
+	  <Soundtrack>AS2D_ANCIENT_SOUNDTRACK_2</Soundtrack>
+	</Row>
+	<Row>
+	  <EraType>ERA_PREHISTORIC</EraType>
+	  <Soundtrack>AS2D_ANCIENT_SOUNDTRACK_3</Soundtrack>
+	</Row>
+	<Row>
+	  <EraType>ERA_PREHISTORIC</EraType>
+	  <Soundtrack>AS2D_ANCIENT_SOUNDTRACK_4</Soundtrack>
+	</Row>
+  </Era_Soundtracks>
+  <Language_en_US>
+	<Row Tag="TXT_KEY_ERA_PREHISTORIC">
+	  <Text>Prehistoric Era</Text>
+	</Row>
+	<Row Tag="TXT_KEY_ERA_PREHISTORIC_SHORT">
+	  <Text>Prehistoric</Text>
+	</Row>
+  </Language_en_US>
+</GameData>

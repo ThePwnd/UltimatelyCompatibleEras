@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/27/2015 5:19:59 AM -->
+<GameData>
+	<Building_Flavors>
+		
+		<!--WONDERS-->
+
+		<Row>
+			<BuildingType>BUILDING_CARNAC_STONES</BuildingType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CARNAC_STONES</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CARNAC_STONES</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		
+		<!--BUILDINGS-->
+		
+		<Row>
+			<BuildingType>BUILDING_ELDER_HUT</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ELDER_HUT</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ELDER_HUT</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ELDER_HUT</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_LOOKOUT</BuildingType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_TOOL_CRAFTSMAN</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_TOOL_STORAGE</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_HERBALIST</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HERBALIST</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_GATHERERES_HUT</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_HUNTERS_HUT</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HUNTERS_HUT</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_BONFIRE</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BONFIRE</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_FIREPIT</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_SMOKEHOUSE</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_TOTEM</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TOTEM</BuildingType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_SACRED_GROUNDS</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SACRED_GROUNDS</BuildingType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_CHIEFS_HUT</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CHIEFS_HUT</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CHIEFS_HUT</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_TIMBER_MILL</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_PALISADE_WALL</BuildingType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_TOWER</BuildingType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_WOOD_WORKS</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_DOCK</BuildingType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DOCK</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_DOCK</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_HIDE_TENDER</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HIDE_TENDER</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HIDE_TENDER</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_ANIMAL_PEN</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_FOOD_STORAGE</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_STORAGE_YARD</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_STORAGE_YARD</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_TRAINING_GROUNDS</BuildingType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_WELL</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_RAFT_ASSEMBLER</BuildingType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_RAFT_ASSEMBLER</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_MONUMENTAL_STONE</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_RANCH</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_RANCH</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_WEAVERY</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_WEAVERY</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_POTTER</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_POTTER</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_POTTER</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_SCHOOL</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>50</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_SCHOOL</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_ARCHITECTS_POST</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_ARCHITECTS_POST</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_NAVIGATORS_GUILD</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_NAVIGATORS_GUILD</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_NAVIGATORS_GUILD</BuildingType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+	</Building_Flavors>
+
+</GameData>

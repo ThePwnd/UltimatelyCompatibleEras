@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/20/2015 4:35:54 PM -->
+<GameData>
+	<Civilization_FreeTechs>
+		<Update>
+			<Set TechType ="TECH_HUNTING"/>
+			<Where TechType ="TECH_ANIMAL_HUSBANDRY"/>
+		</Update>
+	</Civilization_FreeTechs>
+	<Civilization_UnitClassOverrides>
+		<Update>
+			<Set UnitClassType ="UNITCLASS_WARRIOR"/>
+			<Where CivilizationType ="CIVILIZATION_SHOSHONE" />
+		</Update>
+		<Update>
+			<Set UnitClassType ="UNITCLASS_AXEMAN"/>
+			<Where CivilizationType ="CIVILIZATION_AZTEC" />
+		</Update>
+	</Civilization_UnitClassOverrides>
+	<Belief_BuildingClassYieldChanges>
+		<Update>
+			<Set BuildingClassType ="BUILDINGCLASS_ELDER_HUT"/>
+			<Where BeliefType ="BELIEF_GOD_KING" />
+		</Update>
+	</Belief_BuildingClassYieldChanges>
+	<!--<Traits>
+		<Update>
+			<Set FreeSocialPoliciesPerEra ="0"/>
+			<Where Type ="TRAIT_SOLIDARITY"/>
+		</Update>
+	</Traits>-->
+</GameData>

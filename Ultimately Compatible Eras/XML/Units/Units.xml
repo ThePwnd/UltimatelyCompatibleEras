@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/3/2015 3:16:01 PM -->
+<GameData>
+	
+	<Units>
+		<!--PREHISTORIC-->
+		<!--UNIT_CLUBMAN-->
+		<Row>
+			<Class>UNITCLASS_CLUBMAN</Class>
+			<Type>UNIT_CLUBMAN</Type>
+			<Combat>4</Combat>
+			<Cost>10</Cost>
+			<NoMaintenance>true</NoMaintenance>
+			<PrereqTech>TECH_BASIC_TOOLS</PrereqTech>
+			<FaithCost>40</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_CLUBMAN_DESCRIPTION</Description>
+			<Civilopedia>TXT_KEY_UNIT_CLUBMAN_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_CLUBMAN_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_CLUBMAN_HELP</Help>
+			<Pillage>true</Pillage>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<ObsoleteTech>TECH_STONE_WORKING</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_AXEMAN</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>10</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>1</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT__WARRIOR</UnitArtInfo>
+			<UnitFlagIconOffset>3</UnitFlagIconOffset>
+			<IconAtlas>UNIT_ATLAS_1</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+
+		<!--UNIT_SHAMAN-->
+		<Row>
+			<Class>UNITCLASS_SHAMAN</Class>
+			<Type>UNIT_SHAMAN</Type>
+			<Combat>1</Combat>
+			<Cost>16</Cost>
+			<NoMaintenance>true</NoMaintenance>
+			<PrereqTech>TECH_RITUALS</PrereqTech>
+			<FaithCost>50</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_GENERAL</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_SHAMAN_DESCRIPTION</Description>
+			<Civilopedia>TXT_KEY_UNIT_SHAMAN_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_SHAMAN_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_SHAMAN_HELP</Help>
+			<Pillage>false</Pillage>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<ObsoleteTech>TECH_ARCHERY</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_ARCHER</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>10</AdvancedStartCost>
+			<XPValueAttack>5</XPValueAttack>
+			<XPValueDefense>5</XPValueDefense>
+			<Conscription>1</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_GREAT_PROPHET</UnitArtInfo>
+			<UnitFlagIconOffset>16</UnitFlagIconOffset>
+			<IconAtlas>EXPANSION_UNIT_ATLAS_1</IconAtlas>
+			<PortraitIndex>16</PortraitIndex>
+		</Row>
+
+		<!--UNIT_EARLY_SPEARMAN-->
+		<Row>
+			<Class>UNITCLASS_EARLY_SPEARMAN</Class>
+			<Type>UNIT_EARLY_SPEARMAN</Type>
+			<Combat>5</Combat>
+			<Cost>20</Cost>
+			<NoMaintenance>true</NoMaintenance>
+			<PrereqTech>TECH_WOOD_WORKING</PrereqTech>
+			<FaithCost>55</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_COUNTER</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_EARLY_SPEARMAN_DESCRIPTION</Description>
+			<Civilopedia>TXT_KEY_UNIT_EARLY_SPEARMAN_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_EARLY_SPEARMAN_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_EARLY_SPEARMAN_HELP</Help>
+			<Pillage>true</Pillage>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<ObsoleteTech>TECH_BRONZE_WORKING</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_SPEARMAN</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>10</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>2</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_SPEARMAN</UnitArtInfo>
+			<UnitFlagIconOffset>9</UnitFlagIconOffset>
+			<IconAtlas>UNIT_ATLAS_1</IconAtlas>
+			<PortraitIndex>9</PortraitIndex>
+		</Row>
+
+		<!--UNIT_SLINGER-->
+		<Row>
+			<Class>UNITCLASS_SLINGER</Class>
+			<Type>UNIT_SLINGER</Type>
+			<Combat>3</Combat>
+			<Cost>20</Cost>
+			<RangedCombat>5</RangedCombat>
+			<NoMaintenance>true</NoMaintenance>
+			<PrereqTech>TECH_PROJECTILES</PrereqTech>
+			<FaithCost>55</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<Range>1</Range>
+			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_SLINGER_DESCRIPTION</Description>
+			<Civilopedia>TXT_KEY_UNIT_SLINGER_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_SLINGER_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_SLINGER_HELP</Help>
+			<Pillage>true</Pillage>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<ObsoleteTech>TECH_ARCHERY</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_ARCHER</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>10</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_ARCHER</UnitArtInfo>
+			<UnitFlagIconOffset>6</UnitFlagIconOffset>
+			<IconAtlas>UNIT_ATLAS_1</IconAtlas>
+			<PortraitIndex>6</PortraitIndex>
+		</Row>
+
+		<!--UNIT_AXEMAN-->
+		<Row>
+			<Class>UNITCLASS_AXEMAN</Class>
+			<Type>UNIT_AXEMAN</Type>
+			<Combat>6</Combat>
+			<Cost>24</Cost>
+			<NoMaintenance>true</NoMaintenance>
+			<PrereqTech>TECH_STONE_WORKING</PrereqTech>
+			<FaithCost>55</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_AXEMAN_DESCRIPTION</Description>
+			<Civilopedia>TXT_KEY_UNIT_AXEMAN_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_AXEMAN_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_AXEMAN_HELP</Help>
+			<Pillage>true</Pillage>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<ObsoleteTech>TECH_BRONZE_WORKING</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_WARRIOR</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>10</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>1</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_BARBARIAN_EURO</UnitArtInfo>
+			<UnitFlagIconOffset>3</UnitFlagIconOffset>
+			<IconAtlas>UNIT_ATLAS_1</IconAtlas>
+			<PortraitIndex>25</PortraitIndex>
+			<MoveRate>HEAVY_BIPED</MoveRate>
+		</Row>
+		
+		<Update>
+			<Set PrereqTech="TECH_SCOUTING" cost="6" Combat="2" NoMaintenance="true"/>
+			<Where Type="UNIT_SCOUT"/>
+		</Update>
+		
+		<Update>
+			<Set PrereqTech="TECH_BRONZE_WORKING" NoMaintenance="true"/>
+			<Where Type="UNIT_WARRIOR"/>
+		</Update>
+
+		<Update>
+			<Set PrereqTech="TECH_RAFTING" NoMaintenance="true"/>
+			<Where Type="UNIT_WORKBOAT"/>
+		</Update>
+
+		<Update>
+			<Set PrereqTech="TECH_BASIC_TOOLS" NoMaintenance="true" cost="5"/>
+			<Where Type="UNIT_WORKER"/>
+		</Update>
+
+		<Update>
+			<Set PrereqTech="TECH_TRADING"/>
+			<Where Type="UNIT_CARAVAN"/>
+		</Update>
+
+		<Update>
+			<Set PrereqTech="TECH_LEADERSHIP"/>
+			<Where Type="UNIT_SETTLER"/>
+		</Update>
+
+		<Update>
+			<Set NoMaintenance="true"/>
+			<Where Type="UNIT_SETTLER"/>
+		</Update>
+		<Update>
+			<Set NoMaintenance="true" Combat="5"/>
+			<Where Type="UNIT_BARBARIAN_WARRIOR"/>
+		</Update>
+	</Units>
+</GameData>
